@@ -7,5 +7,7 @@ class Salary:
     def __str__(self):
         if self.salary_from and self.salary_to:
             return f'{self.salary_from} - {self.salary_to} {self.currency}'
+        elif self.salary_from:
+            return f'{self.salary_from} {self.currency}'
         else:
             return 'Зарплата не указана'
