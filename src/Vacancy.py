@@ -12,12 +12,13 @@ class Vacancy:
     employer : Employer
     salary : Salary
 
-    def __init__(self, id, name, url, employer, salary):
+    def __init__(self, id, name, url, employer, salary, full_data):
         self.id = id
         self.name = name
         self.url = url
         self.employer = employer
         self.salary = salary
+        self.full_data = full_data
 
     def __str__(self):
 

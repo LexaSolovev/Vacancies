@@ -57,7 +57,8 @@ class HeadHunterAPI(VacancyAPI):
                     vacancy.get('name'),
                     vacancy.get('url'),
                     employer,
-                    salary
+                    salary,
+                    vacancy
                 )
             )
 
