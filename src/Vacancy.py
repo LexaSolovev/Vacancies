@@ -1,3 +1,5 @@
+import json
+
 from src.Employer import Employer
 from src.Salary import Salary
 
@@ -16,3 +18,17 @@ class Vacancy:
         self.url = url
         self.employer = employer
         self.salary = salary
+
+    def __str__(self):
+
+        return json.dumps(
+            {
+                "id" : self.id,
+                "name" : self.name,
+                "url" : self.url,
+                "employer" : str(self.employer),
+                "salary" : str(self.salary)
+        },
+            ensure_ascii=False,
+            indent=4
+        )
