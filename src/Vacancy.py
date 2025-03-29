@@ -1,4 +1,5 @@
 from src.Employer import Employer
+from src.Salary import Salary
 
 
 class Vacancy:
