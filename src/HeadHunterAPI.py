@@ -1,5 +1,9 @@
+import json
+import os.path
+
 import requests
 
+from config import PATH_DATA
 from src.VacancyAPI import VacancyAPI
 
 
@@ -19,7 +23,13 @@ class HeadHunterAPI(VacancyAPI):
             self.vacancies.extend(vacancies)
             self.params['page'] += 1
 
+    def save_to_json(self, path):
+        with open(path, "w") as f:
+            json.dump(self.vacancies, f, indent=4, ensure_ascii=False)
+
 if __name__ == "__main__":
     hh = HeadHunterAPI()
     hh.get_vacancies("Python")
     print(hh.vacancies)
+    path_to_json = os.path.join(PATH_DATA, "vacansies.json")
+    hh.save_to_json(path_to_json)
