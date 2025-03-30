@@ -11,14 +11,17 @@ class Vacancy:
     url : str
     employer : Employer
     salary : Salary
+    __full_data : dict
 
-    def __init__(self, id, name, url, employer, salary, full_data):
+    __slots__ = ("id", "name", "url", "employer", "salary", "__full_data")
+
+    def __init__(self, id, name, url, employer, salary, full_data = {}):
         self.id = id
         self.name = name
         self.url = url
         self.employer = employer
         self.salary = salary
-        self.full_data = full_data
+        self.__full_data = full_data
 
     def __str__(self):
 
