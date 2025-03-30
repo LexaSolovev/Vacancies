@@ -11,3 +11,9 @@ class Salary:
             return f'{self.salary_from} {self.currency}'
         else:
             return 'Зарплата не указана'
+
+    def __lt__(self, other):
+        if isinstance(other, self.__class__):
+            return self.salary_from < other.salary_from
+        raise TypeError(f"Попытка некорректного сравнения объекта "
+                        f"{self.__class__.__name__} c объектом {other.__clas__.__name__}")

@@ -33,3 +33,9 @@ class Vacancy:
             ensure_ascii=False,
             indent=4
         )
+
+    def __lt__(self, other):
+        if isinstance(other, self.__class__):
+            return self.salary < other.salary
+        raise TypeError(f"Попытка некорректного сравнения объекта "
+                        f"{self.__class__.__name__} c объектом {other.__clas__.__name__}")
