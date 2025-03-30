@@ -26,9 +26,12 @@ class HeadHunterAPI(VacancyAPI):
         self.params['area'] = area
         while self.params.get('page') != to_page:
             response = requests.get(self.url, headers=self.headers, params=self.params)
-            vacancies_json = response.json()['items']
-            self.__vacancies_json.extend(vacancies_json)
-            self.params['page'] += 1
+            if response.status_code == 200:
+                vacancies_json = response.json()['items']
+                self.__vacancies_json.extend(vacancies_json)
+                self.params['page'] += 1
+            else:
+                raise requests.RequestException(f"Ошибка запроса. Cтатус код = {response.status_code}")
         self.__parse_vacancies()
 
     def save_to_json(self, path):
