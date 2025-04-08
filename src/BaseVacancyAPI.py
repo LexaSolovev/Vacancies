@@ -1,11 +1,7 @@
 from abc import ABC, abstractmethod
 
-class VacancyAPI(ABC):
+class BaseVacancyAPI(ABC):
 
     @abstractmethod
     def get_vacancies(self, params):
-        pass
-
-    @abstractmethod
-    def save_to_json(self, path):
         pass
