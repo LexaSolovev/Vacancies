@@ -21,14 +21,22 @@ class Salary:
                     return self.salary_from < other.salary_from
                 elif other.salary_to:
                     return self.salary_from < other.salary_to
+                else:
+                    return False
             elif self.salary_to:
                 if other.salary_to:
                     return self.salary_to < other.salary_to
                 elif other.salary_from:
                     return self.salary_to < other.salary_from
-
+                else:
+                    return False
+            else:
+                return True
         raise TypeError(f"Попытка некорректного сравнения объекта "
-                        f"{self.__class__.__name__} c объектом {other.__class__.__name__}")
+                        f"{self} c объектом {other}")
 
-    @staticmethod
-
+    def in_interval(self, salary_begin : int, salary_end : int) -> bool:
+        if ((salary_begin <= self.salary_from) and (salary_end >= self.salary_from)) or ((salary_begin >= self.salary_from) and (salary_begin <= self.salary_to)):
+            return True
+        else:
+            return False
