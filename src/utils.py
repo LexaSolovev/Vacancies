@@ -2,12 +2,13 @@ import json
 import re
 
 from config import PATH_AREAS
-from src.HeadHunterAPI import HeadHunterAPI
-from src.JSONSaver import JSONSaver
-from src.Vacancy import Vacancy
+from src.api import HeadHunterAPI
+from src.savers import JSONSaver
+from src.vacancy import Vacancy
 
 
-def search_id_by_name(areas, name):
+def search_id_by_name(areas: list[dict], name: str) -> str:
+    """Рекурсивная функция для поиска area_id в дереве регионов"""
     for area in areas:
         if area["name"] == name:
             return area["id"]
@@ -16,7 +17,8 @@ def search_id_by_name(areas, name):
             return result
 
 
-def get_area_id(name: str):
+def get_area_id(name: str) -> str:
+    """Функция для получения area_id по имени региона/города"""
     with open(PATH_AREAS) as f:
         areas = json.load(f)
     area_id = search_id_by_name(areas, name)
@@ -24,17 +26,22 @@ def get_area_id(name: str):
 
 
 def sort_vacancies(vacancies_list: list[Vacancy]) -> list[Vacancy]:
+    """Функция для сортировки вакансий по зарплате"""
     return sorted(vacancies_list, reverse=True)
 
 
 def filter_vacancies(vacancies_list: list[Vacancy], filter_words : list[str]) -> list[Vacancy]:
+    """ Функция для отбора вакансий из списка, в которых содержится хотя бы одно слово из списка filter_words"""
     filtered_vacancies = []
     for vacancy in vacancies_list:
         if vacancy.is_contain_words(filter_words):
             filtered_vacancies.append(vacancy)
     return filtered_vacancies
 
-def get_vacancies_by_salary(vacancies_list: list[Vacancy], salary_begin : int, salary_end : int):
+def get_vacancies_by_salary(vacancies_list: list[Vacancy], salary_begin : int, salary_end : int) -> list[Vacancy]:
+    """
+    Функция для получения списка вакансий, по которым зарплата находится в заданном диапазоне
+    """
     result = []
     for vacancy in vacancies_list:
         if vacancy.salary.in_interval(salary_begin,salary_end):
@@ -42,11 +49,13 @@ def get_vacancies_by_salary(vacancies_list: list[Vacancy], salary_begin : int, s
     return result
 
 def print_vacancies(vacancies_list: list[Vacancy]) -> None:
+    """ Функция для печати списка вакансий"""
     for vacancy in vacancies_list:
         print(vacancy)
 
 
 def user_interaction():
+    """Функция для работы с пользователем"""
     search_query = input("Введите поисковый запрос: ")
     filter_by_area = input("Введите регион для поиска (например: Москва, Россия, Нижегородская область):")
     area_id = get_area_id(filter_by_area)
