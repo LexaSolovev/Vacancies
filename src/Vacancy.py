@@ -27,6 +27,9 @@ class Vacancy:
         vacancies_list = []
         for vacancy in vacancies_data:
             salary_info = vacancy["salary"]
+            salary_from = 0
+            salary_to = 0
+            currency = "RUR"
             if salary_info:
                 salary_from = salary_info["from"] if salary_info["from"] else 0
                 salary_to = salary_info["to"] if salary_info["to"] else 0
@@ -47,7 +50,7 @@ class Vacancy:
 
     def __str__(self):
 
-        return json.dumps(self.to_json(), ensure_ascii=False, indent=4)
+        return json.dumps(self.to_dict(), ensure_ascii=False, indent=4)
 
     def to_dict(self):
         return {
@@ -65,10 +68,9 @@ class Vacancy:
         raise TypeError(f"Попытка некорректного сравнения объекта "
                         f"{self.__class__.__name__} c объектом {other.__clas__.__name__}")
 
-    def is_contain_words(self, keywords : str) -> bool:
-        keywords_list = keywords.split()
+    def is_contain_words(self, keywords : list[str]) -> bool:
         self_str = str(self)
-        for word in keywords_list:
+        for word in keywords:
             if word in self_str:
                 return True
         return False
