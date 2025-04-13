@@ -50,7 +50,12 @@ class Vacancy:
 
     def __str__(self):
 
-        return json.dumps(self.to_dict(), ensure_ascii=False, indent=4)
+        return (f"Вакансия: {self.name}\n"
+                f"Ссылка: {self.url}\n"
+                f"Организация: {self.employer}\n"
+                f"Зарплата: {str(self.salary)}\n"
+                f"Требования: {self.description}\n")
+
 
     def to_dict(self):
         return {

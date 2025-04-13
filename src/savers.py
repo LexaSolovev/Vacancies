@@ -3,10 +3,19 @@ import os.path
 
 from config import PATH_DATA
 from src.BaseSaver import BaseSaver
-from src.Vacancy import Vacancy
+from src.vacancy import Vacancy
 
 
 class JSONSaver(BaseSaver):
+"""
+Класс JSONSaver для хранения информации о вакансиях в файле формата json
+__path - приватный атрибут для хранения пути файла
+Методы:
+get_data
+add_vacancy
+save_vacancies
+delete_vacancy
+"""
 
     def __init__(self, file_name: str = "vacancies.json"):
         path = os.path.join(PATH_DATA, file_name)

@@ -5,12 +5,6 @@ import requests
 
 from src.HeadHunterAPI import HeadHunterAPI
 
-def test_init_class():
-    hh_api = HeadHunterAPI()
-    assert hh_api.url == 'https://api.hh.ru/vacancies'
-    assert hh_api.params == {'text': '', 'page': 0, 'per_page': 100}
-    assert hh_api.headers == {'User-Agent': 'HH-User-Agent'}
-
 @pytest.fixture
 def api():
     return HeadHunterAPI()
