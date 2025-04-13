@@ -4,7 +4,7 @@ class Salary:
         self.salary_to = salary_to
         self.currency = currency
 
-    def __str__(self):
+    def __str__(self) -> str:
         if self.salary_from and self.salary_to:
             return f'{self.salary_from} - {self.salary_to} {self.currency}'
         elif self.salary_from:
@@ -14,10 +14,10 @@ class Salary:
         else:
             return 'Зарплата не указана'
 
-    def __lt__(self, other):
+    def __lt__(self, other) -> bool:
         if isinstance(other, self.__class__):
             if self.salary_from:
-                if other.salary_from:
+                if other.salary_from and self.salary_from != other.salary_from:
                     return self.salary_from < other.salary_from
                 elif other.salary_to:
                     return self.salary_from < other.salary_to
