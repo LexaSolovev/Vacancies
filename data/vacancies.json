@@ -1,0 +1,1458 @@
+[
+    {
+        "id": "112686254",
+        "name": "Руководитель направления разработки",
+        "url": "https://hh.ru/vacancy/112686254",
+        "employer": "Тензор",
+        "salary": "355000 - 520000 RUR",
+        "description": "На этой должности у Вас не будет времени, чтобы писать код самому. Но Вы должны уметь это делать лучше своей..."
+    },
+    {
+        "id": "119228824",
+        "name": "Team Lead PHP/Go (Risk Tech)",
+        "url": "https://hh.ru/vacancy/119228824",
+        "employer": "Займиго МФК",
+        "salary": "от 350000 RUR",
+        "description": "...задач и системного мышления. Опыт проектирования highload-систем и их мониторинга. Опыт работы с отказоустойчивыми системами. Опыт программирования на <highlighttext>Python</highlighttext>."
+    },
+    {
+        "id": "118356487",
+        "name": "Ведущий сетевой инженер",
+        "url": "https://hh.ru/vacancy/118356487",
+        "employer": "Точка Связи",
+        "salary": "300000 - 300000 RUR",
+        "description": "Знание nix на уровне администратора. Опыт администрирования Zabbix, Grafana, Cacti. Опыт применения <highlighttext>Python</highlighttext>, Ansible, MySQL;(желательно, но не обязательно). "
+    },
+    {
+        "id": "118650909",
+        "name": "1C разработчик Middle+/Senior",
+        "url": "https://hh.ru/vacancy/118650909",
+        "employer": "Провенто, ГК",
+        "salary": "300000 - 350000 RUR",
+        "description": "Опыт работы 1С от 4х лет. Знание механизмов платформы 1С: язык запросов клиент-серверное взаимодействие; работа с..."
+    },
+    {
+        "id": "114929630",
+        "name": "Инженер машинного зрения (Senior computer vision)",
+        "url": "https://hh.ru/vacancy/114929630",
+        "employer": "Алабуга, ОЭЗ ППТ",
+        "salary": "от 277500 RUR",
+        "description": "Знание и опыт работы с одним из фреймворков машинного обучения (PyTorch, Tensorflow) на языке <highlighttext>Python</highlighttext>. Опыт работы с Matlab. "
+    },
+    {
+        "id": "113705688",
+        "name": "Senior Backend developer",
+        "url": "https://hh.ru/vacancy/113705688",
+        "employer": "Тензор",
+        "salary": "270000 - 420000 RUR",
+        "description": "Уверенное программирование на <highlighttext>Python</highlighttext> или других скриптовых языках с последующей миграцией на <highlighttext>Python</highlighttext>. Навык написания чистых SQL-запросов (без использования..."
+    },
+    {
+        "id": "119436024",
+        "name": "Team Lead / Руководитель группы разработки",
+        "url": "https://hh.ru/vacancy/119436024",
+        "employer": "Компания БФК",
+        "salary": "250000 - 350000 RUR",
+        "description": "Опыт управления группой разработчиков и опыт командной разработки сложного ПО от года. Хорошие знания и опыт применения C++, C#, T..."
+    },
+    {
+        "id": "109473011",
+        "name": "Ведущий программист С++",
+        "url": "https://hh.ru/vacancy/109473011",
+        "employer": "Тензор",
+        "salary": "250000 - 400000 RUR",
+        "description": "Высшее/неполное высшее образование. Опыт разработки на С++. Понимание эффективных алгоритмов и структур данных. Опыт разработки под win/nix приветствуется. "
+    },
+    {
+        "id": "118502267",
+        "name": "DevOps-инженер",
+        "url": "https://hh.ru/vacancy/118502267",
+        "employer": "ХОСТ, Группа компаний",
+        "salary": "от 217000 RUR",
+        "description": "...GitOps и инструментов (ArgoCD, Flux). Умение настраивать и сопровождать Prometheus, Grafana, Loki. Базовые навыки Linux: администрирование, написание скриптов (Bash/<highlighttext>Python</highlighttext>)."
+    },
+    {
+        "id": "119371667",
+        "name": "Java разработчик Middle+/senior",
+        "url": "https://hh.ru/vacancy/119371667",
+        "employer": "Сджей Глобал",
+        "salary": "от 200000 RUR",
+        "description": "Опыт работы в финтехе или страховании. Знание Kotlin. Опыт работы с <highlighttext>Python</highlighttext>, Apache Airflow, Greenplum. Опыт работы с Keycloak. "
+    },
+    {
+        "id": "118700391",
+        "name": "Python Developer (Middle+/Senior)",
+        "url": "https://hh.ru/vacancy/118700391",
+        "employer": "PassLeak",
+        "salary": "200000 - 350000 RUR",
+        "description": "Опыт разработки на <highlighttext>Python</highlighttext> и Django от 5 лет. Уверенные навыки работы с базами данных и брокерами сообщений (PostgreSQL, Celery..."
+    },
+    {
+        "id": "119160214",
+        "name": "Преподаватель робототехники",
+        "url": "https://hh.ru/vacancy/119160214",
+        "employer": "Алабуга, ОЭЗ ППТ",
+        "salary": "от 157500 RUR",
+        "description": "Знание английского языка, не ниже B1. Знание языков программирования (минимум 1 из списка) Scratch, <highlighttext>Python</highlighttext>, C++, Robot C. "
+    },
+    {
+        "id": "119244852",
+        "name": "Бизнес-аналитик (офис)",
+        "url": "https://hh.ru/vacancy/119244852",
+        "employer": "Л-Системс",
+        "salary": "от 150000 RUR",
+        "description": "Навыки работы с SQL (MySQL, PostgreSQL). Знание <highlighttext>Python</highlighttext> для анализа данных (библиотеки pandas, numpy, matplotlib) и кластеризации данных. "
+    },
+    {
+        "id": "119113021",
+        "name": "Программист",
+        "url": "https://hh.ru/vacancy/119113021",
+        "employer": "ЛинкТелеком НН",
+        "salary": "от 150000 RUR",
+        "description": "Образование: среднее специальное или высшее (техническое/IT). Опыт работы от 5 лет в разработке. Ключевые технологии: Nginx/Apache. MySQL, PostgreSQL. "
+    },
+    {
+        "id": "119109248",
+        "name": "DevOps-инженер",
+        "url": "https://hh.ru/vacancy/119109248",
+        "employer": "Цифровые практики",
+        "salary": "от 150000 RUR",
+        "description": "Понимание сетей, знание базовых сетевых протоколов. Умение программировать на скриптовых языках (<highlighttext>Python</highlighttext>\\Bash). Понимание сущностей kubernetes. Понимание/опыт написания Helm..."
+    },
+    {
+        "id": "118466170",
+        "name": "Middle PHP-developer",
+        "url": "https://hh.ru/vacancy/118466170",
+        "employer": "SoftMaster",
+        "salary": "от 150000 RUR",
+        "description": "Уверенно владеют PHP 7+. Знают JavaScript, HTML5, CSS3, ООП. Имеют хорошее знание SQL-подобных СУБД (желательно MySQL..."
+    },
+    {
+        "id": "115211489",
+        "name": "Build-инженер/программист",
+        "url": "https://hh.ru/vacancy/115211489",
+        "employer": "Тензор",
+        "salary": "150000 - 250000 RUR",
+        "description": "Опыт работы с CMake, autotools и другими системами сборки. Знание <highlighttext>python</highlighttext> и bash на уровне написания скриптов. Желательно. "
+    },
+    {
+        "id": "117670193",
+        "name": "Программист С++",
+        "url": "https://hh.ru/vacancy/117670193",
+        "employer": "Тензор",
+        "salary": "150000 - 250000 RUR",
+        "description": "Не нужно знать идеально все наши технологии. Нужна светлая голова и страстное желание работать."
+    },
+    {
+        "id": "105927931",
+        "name": "Data scientist",
+        "url": "https://hh.ru/vacancy/105927931",
+        "employer": "СБЕР",
+        "salary": "от 133400 RUR",
+        "description": "Знаете эконометрику и методы машинного обучения. Знаете <highlighttext>Python</highlighttext> на продвинутом уровне. Можете самостоятельно решать нешаблонные задачи. Можете работать в команде. "
+    },
+    {
+        "id": "119230678",
+        "name": "Fullstack-разработчик",
+        "url": "https://hh.ru/vacancy/119230678",
+        "employer": "Безопасные Детали",
+        "salary": "от 100000 RUR",
+        "description": null
+    },
+    {
+        "id": "115632032",
+        "name": "Ведущий инженер Лаборатории моделирования и разработки цифровых продуктов",
+        "url": "https://hh.ru/vacancy/115632032",
+        "employer": "ЛУКОЙЛ",
+        "salary": "от 95000 RUR",
+        "description": "Стаж работы по специальности не менее 1 года. Знание языков программирования <highlighttext>Python</highlighttext>, R и др. Знание принципов математического моделирования процессов..."
+    },
+    {
+        "id": "116897666",
+        "name": "Системный администратор Linux",
+        "url": "https://hh.ru/vacancy/116897666",
+        "employer": "Опытное Конструкторское Бюро Машиностроения им. И.И. Африкантова",
+        "salary": "92800 - 102000 RUR",
+        "description": "Опыт администрирования MS AD, ALD Pro (разработка групповых политик, автоматизация средствами PowerShell, bash, <highlighttext>Python</highlighttext>). Желательно: Навыки работы и настройки систем..."
+    },
+    {
+        "id": "119294522",
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/119294522",
+        "employer": "Постал",
+        "salary": "90000 - 150000 RUR",
+        "description": "Опыт работы с <highlighttext>Python</highlighttext>3 от 1 до 3 лет. Знание и опыт работы с asyncio, SQL, SQLAlchemy, FastAPI, Pydantic..."
+    },
+    {
+        "id": "116812800",
+        "name": "Инженер-программист",
+        "url": "https://hh.ru/vacancy/116812800",
+        "employer": "НПП Салют-25",
+        "salary": "90000 - 150000 RUR",
+        "description": "Опыт работы в CAD системе (пример: Altium Designer, KiCAD, EasyEDA, P-CAD)."
+    },
+    {
+        "id": "118519614",
+        "name": "Главный специалист SQL, Python и BPMN",
+        "url": "https://hh.ru/vacancy/118519614",
+        "employer": "СБЕР",
+        "salary": "от 84500 RUR",
+        "description": "Знание основ SQL для построения простых запросов. <highlighttext>Python</highlighttext> и BPMN. Уверенный пользователь Exel. Будет плюсом опыт работы с библиотекой Pandas..."
+    },
+    {
+        "id": "118556164",
+        "name": "BI-аналитик",
+        "url": "https://hh.ru/vacancy/118556164",
+        "employer": "МТС",
+        "salary": "от 84000 RUR",
+        "description": "Уверенное владение Excel: ВПР, сводные таблицы, сложные формулы. Уверенный пользователь Power Point. Умение работать с Power Query, SQL и <highlighttext>Python</highlighttext>..."
+    },
+    {
+        "id": "118983050",
+        "name": "Аналитик данных ГАУ НО «Центр координации проектов цифровой экономики»",
+        "url": "https://hh.ru/vacancy/118983050",
+        "employer": "ДПО Корпоративный Университет Правительства Нижегородской Области (КУПНО)",
+        "salary": "от 80000 RUR",
+        "description": "Опыт работы на аналогичной позиции от 1 года. Опыт работы с SQL и <highlighttext>Python</highlighttext>. Опыт работы с инструментами визуализации. "
+    },
+    {
+        "id": "118884764",
+        "name": "ГИС-специалист",
+        "url": "https://hh.ru/vacancy/118884764",
+        "employer": "Сканэнергоконтроль",
+        "salary": "70000 - 90000 RUR",
+        "description": "Опыт работы в области геоинформатики от трех лет. Уверенные знания популярных настольных ГИС (QGIS, ArcGIS Desktop или MapInfo). "
+    },
+    {
+        "id": "119325073",
+        "name": "Системный аналитик (ученик)",
+        "url": "https://hh.ru/vacancy/119325073",
+        "employer": "Aston",
+        "salary": "70000 - 80000 RUR",
+        "description": "Обязательное требование — законченное высшее или среднее специальное образование. Для тех, у кого нет навыков в этой сфере. Для тех, у..."
+    },
+    {
+        "id": "119188572",
+        "name": "Java разработчик/Java Developer (ученик)",
+        "url": "https://hh.ru/vacancy/119188572",
+        "employer": "Aston",
+        "salary": "70000 - 80000 RUR",
+        "description": "Законченное высшее или среднее специальное образование. Базовые знания Java. Знание что такое Git и как с ним работать. "
+    },
+    {
+        "id": "118857759",
+        "name": "Java разработчик с нуля (стажер)",
+        "url": "https://hh.ru/vacancy/118857759",
+        "employer": "Aston",
+        "salary": "70000 - 80000 RUR",
+        "description": "Кто сказал, что нужен опыт? Мы ценим твой потенциал! Понимание принципов ООП, понимание алгоритмов и структур данных, знание Java Core. "
+    },
+    {
+        "id": "119394067",
+        "name": "Ведущий специалист по цифровым технологиям аудита",
+        "url": "https://hh.ru/vacancy/119394067",
+        "employer": "СБЕР",
+        "salary": "от 62000 RUR",
+        "description": "Высшее образование в сфере ИТ-технологий/математическое/экономическое. Знание языков программирования SQL/<highlighttext>Python</highlighttext>. Опыт работы с базами данных (обработка большого..."
+    },
+    {
+        "id": "114668317",
+        "name": "Тестировщик",
+        "url": "https://hh.ru/vacancy/114668317",
+        "employer": "ПромоДата",
+        "salary": "60000 - 80000 RUR",
+        "description": "Оконченное высшее техническое образование/ неоконченное, с возможностью работать 5/2, полный день. Понимание работы с серверами на базе linux (debian/ubuntu). "
+    },
+    {
+        "id": "118625602",
+        "name": "Backend-разработчик Node.JS (Junior+)",
+        "url": "https://hh.ru/vacancy/118625602",
+        "employer": "Фланг",
+        "salary": "60000 - 100000 RUR",
+        "description": "Знание принципов выстраивания архитектуры Node.JS. Опыт в бекенде на других языках (включая лабораторные/пет проекты): php, java, <highlighttext>python</highlighttext>, go. "
+    },
+    {
+        "id": "114964765",
+        "name": "Младший инженер-программист C++",
+        "url": "https://hh.ru/vacancy/114964765",
+        "employer": "CAD Exchanger",
+        "salary": "от 60000 RUR",
+        "description": "Вы должны иметь высшее образование. Мы готовы рассматривать также студентов последних курсов при условии готовности работать на полную ставку. "
+    },
+    {
+        "id": "119066230",
+        "name": "Специалист поддержки пользователей Yandex Observability Platform",
+        "url": "https://hh.ru/vacancy/119066230",
+        "employer": "Яндекс Крауд",
+        "salary": "от 60000 RUR",
+        "description": "Умеете работать с Linux, командной строкой и скриптовыми языками, например <highlighttext>Python</highlighttext>. На базовом уровне знакомы с http-методами, REST API..."
+    },
+    {
+        "id": "114623649",
+        "name": "Преподаватель в онлайн-школу программирования",
+        "url": "https://hh.ru/vacancy/114623649",
+        "employer": "IT школа Hello world",
+        "salary": "от 60000 RUR",
+        "description": "Знание одного или нескольких языков программирования (из представленных направлений). Готовность преподавать минимум 2 направления из списка. Способность вдохновлять и заинтересовывать..."
+    },
+    {
+        "id": "119310399",
+        "name": "Преподаватель Unity / Python Backend в онлайн-школу",
+        "url": "https://hh.ru/vacancy/119310399",
+        "employer": "EasyCode",
+        "salary": "60000 - 90000 RUR",
+        "description": "Есть опыт в преподавании ТРЕХ или БОЛЕЕ наших дисциплин: - Scratch&Roblox, <highlighttext>Python</highlighttext>, <highlighttext>Python</highlighttext> Backend, Unity, HTML + CSS + JavaScript..."
+    },
+    {
+        "id": "115499507",
+        "name": "Менеджер по работе с клиентами",
+        "url": "https://hh.ru/vacancy/115499507",
+        "employer": "Ростелеком",
+        "salary": "до 68000 RUR",
+        "description": "У вас есть опыт в колл-центре от 3-х месяцев, или опыт активных телефонных переговоров (наличие опыта обязательно, без..."
+    },
+    {
+        "id": "119094000",
+        "name": "Аналитик данных службы поддержки",
+        "url": "https://hh.ru/vacancy/119094000",
+        "employer": "Яндекс Крауд",
+        "salary": "от 55000 RUR",
+        "description": "Владеете SQL, JavaScript и <highlighttext>Python</highlighttext> на базовом уровне, умеете работать с формулами, макросами и сводными таблицами в Excel. "
+    },
+    {
+        "id": "119099078",
+        "name": "Главный специалист отдела проектирования информационных систем",
+        "url": "https://hh.ru/vacancy/119099078",
+        "employer": "ТФОМС Нижегородской области",
+        "salary": "от 55000 RUR",
+        "description": "Владение языком запросов SQL (T-SQL). Работы со средами разработки программного обеспечения (<highlighttext>Python</highlighttext>). Разработки и сопровождения программного обеспечения для работы..."
+    },
+    {
+        "id": "103580237",
+        "name": "Репетитор по информатике",
+        "url": "https://hh.ru/vacancy/103580237",
+        "employer": "Онлайн-школа Тетрика",
+        "salary": "50000 - 80000 RUR",
+        "description": "Успешный опыт преподавания. Знание информатики в рамках школьной программы. Грамотная устная и письменная речь. Уверенные знания ПК, MS Office. "
+    },
+    {
+        "id": "118814666",
+        "name": "Специалист по разработке и сопровождению систем и сервисов (инженер-программист)",
+        "url": "https://hh.ru/vacancy/118814666",
+        "employer": "Государственное бюджетное учреждение здравоохранения Нижегородской области Медицинский информационно-аналитический центр",
+        "salary": "от 45000 RUR",
+        "description": "Базовые знания одного из языков программирования (<highlighttext>Python</highlighttext>, Java, С#, иные). Высшее или среднее специальное техническое образование. Знание Exсel на уровне..."
+    },
+    {
+        "id": "87724389",
+        "name": "Специалист ночной технической поддержки (Браузер)",
+        "url": "https://hh.ru/vacancy/87724389",
+        "employer": "Яндекс Крауд",
+        "salary": "от 36000 RUR",
+        "description": "Не боитесь сложных ситуаций и больших объёмов информации. Знаете языки JavaScript, HTML и <highlighttext>Python</highlighttext>. Спокойно относитесь к однообразным задачам и..."
+    },
+    {
+        "id": "119004280",
+        "name": "Старший/ведущий разработчик C++ (Linux/OpenBMC)",
+        "url": "https://hh.ru/vacancy/119004280",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Знание принципов работы systemd и d-bus. Знание <highlighttext>Python</highlighttext>. Знание C, достаточное для периодических работ с драйверами Linux и загрузчиком..."
+    },
+    {
+        "id": "113324551",
+        "name": "Security Champion in SW Development \\ Специалист по информационной безопасности (TATLIN.OBJECT)",
+        "url": "https://hh.ru/vacancy/113324551",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Навыки работы с инструментами автоматизации и скриптовыми языками (Bash, <highlighttext>Python</highlighttext>). Понимание принципов работы компьютера и сети. Будет плюсом: Участие в..."
+    },
+    {
+        "id": "118570943",
+        "name": "Ведущий сетевой инженер",
+        "url": "https://hh.ru/vacancy/118570943",
+        "employer": "БУЛАТ",
+        "salary": "Зарплата не указана",
+        "description": "...2 и L3 сетей. Уверенные знания Linux. Опыт применения RFC. Опыт проведения испытаний сетевого оборудования. Опыт написания скриптов <highlighttext>Python</highlighttext>."
+    },
+    {
+        "id": "118967791",
+        "name": "GSM architect",
+        "url": "https://hh.ru/vacancy/118967791",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Rich experience on programming in <highlighttext>Python</highlighttext>/Matlab/C/C++ and/or modelling wireless communications systems. Strong background in SW architecture..."
+    },
+    {
+        "id": "115708277",
+        "name": "Ведущий разработчик С++",
+        "url": "https://hh.ru/vacancy/115708277",
+        "employer": "Цитадель",
+        "salary": "Зарплата не указана",
+        "description": "Будет плюсом: Опыт работы с CI/CD инструментами. Знание дополнительных языков программирования (<highlighttext>Python</highlighttext>, JS, Lua, Go). Опыт интеграции с API..."
+    },
+    {
+        "id": "112869000",
+        "name": "NetOps (Python) / Сетевой инженер по автоматизации (KORNFELD)",
+        "url": "https://hh.ru/vacancy/112869000",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Уверенное пользование ОС Linux. Опыт автоматизирования прикладных задач сетевой инфраструктуры (<highlighttext>python</highlighttext>, bash). Будет плюсом: Практический опыт работы с программными эмуляторами..."
+    },
+    {
+        "id": "118986474",
+        "name": "Algorithms and Models L2+ layer Engineer (4G/LTE, 5G)",
+        "url": "https://hh.ru/vacancy/118986474",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Experiences on programming in <highlighttext>Python</highlighttext>/C/C++ and modeling wireless communications systems for L2/L3. 1+ years..."
+    },
+    {
+        "id": "118968755",
+        "name": "Algorithms and Models Engineer (AME)",
+        "url": "https://hh.ru/vacancy/118968755",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Experiences on programming in <highlighttext>Python</highlighttext>/Matlab and modeling wireless communications systems. 3+ years of background on development/research/specification..."
+    },
+    {
+        "id": "118983313",
+        "name": "Algorithms and Models Engineer for GSM",
+        "url": "https://hh.ru/vacancy/118983313",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Knowledge of GSM protocol. Experiences on programming in C++/<highlighttext>Python</highlighttext>/Matlab and modeling wireless communications systems. 3+ years of..."
+    },
+    {
+        "id": "118180875",
+        "name": "Руководитель команды по автоматизированному тестированию",
+        "url": "https://hh.ru/vacancy/118180875",
+        "employer": "Теком",
+        "salary": "Зарплата не указана",
+        "description": "Знание одного или нескольких языков программирования сценариев: предпочтительно <highlighttext>Python</highlighttext> / Java. Опыт разработки автоматических load, stability/duration, stress тесто​​​​​​​в. "
+    },
+    {
+        "id": "106644826",
+        "name": "Разработчик C/Linux",
+        "url": "https://hh.ru/vacancy/106644826",
+        "employer": "БУЛАТ",
+        "salary": "Зарплата не указана",
+        "description": "Знание Linux на уровне эксперта. C на уверенном уровне. Владение make, bash, <highlighttext>python</highlighttext>, работа в Docker. Опыт работы в POSIX..."
+    },
+    {
+        "id": "118827854",
+        "name": "C++ Developer in L2",
+        "url": "https://hh.ru/vacancy/118827854",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Опыт в применении различных методов/инструментов отладки/диагностирования ошибок. Знание скриптовых языков (<highlighttext>Python</highlighttext>, Shell, Perl, etc.). Знание цифровой обработки сигналов..."
+    },
+    {
+        "id": "118829447",
+        "name": "Developer for GSM",
+        "url": "https://hh.ru/vacancy/118829447",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Опыт в применении различных методов/инструментов отладки/диагностирования ошибок. Знание скриптовых языков (<highlighttext>Python</highlighttext>, Shell, TTCN, etc.). Знание цифровой обработки сигналов..."
+    },
+    {
+        "id": "117282752",
+        "name": "Ведущий разработчик C/Linux",
+        "url": "https://hh.ru/vacancy/117282752",
+        "employer": "БУЛАТ",
+        "salary": "Зарплата не указана",
+        "description": "Знание Linux на уровне эксперта. C на уверенном уровне. Владение make, bash, <highlighttext>python</highlighttext>, работа в Docker. Опыт работы в POSIX..."
+    },
+    {
+        "id": "117232150",
+        "name": "Инженер DevSecOps",
+        "url": "https://hh.ru/vacancy/117232150",
+        "employer": "Ростелеком - Центры обработки данных",
+        "salary": "Зарплата не указана",
+        "description": "Высшее техническое. Уверенное владение языками программирования: C,C++, <highlighttext>Python</highlighttext>. Опыт работы с ОС Linux. Опыт программирования на указанных выше языках..."
+    },
+    {
+        "id": "118967893",
+        "name": "Platform Architect",
+        "url": "https://hh.ru/vacancy/118967893",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Good verbal and writing skills in English. Experience in programming in C/C++, <highlighttext>Python</highlighttext>. SW development expertise and design flow..."
+    },
+    {
+        "id": "118824171",
+        "name": "C++ Developer in Control Plane",
+        "url": "https://hh.ru/vacancy/118824171",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Опыт написания интеграционных тестов. Знание и опыт работы с языком TTCN-3. Знание скриптовых языков (<highlighttext>Python</highlighttext>, Shell etc.)."
+    },
+    {
+        "id": "115701647",
+        "name": "Аналитик CLTV юридических лиц",
+        "url": "https://hh.ru/vacancy/115701647",
+        "employer": "СБЕР",
+        "salary": "Зарплата не указана",
+        "description": "Практический опыт формирования аналитических отчётов, дэшбордов, работа с BI-платформами будет являться преимуществом. Продвинутый уровень SQL, <highlighttext>Python</highlighttext>, Spark, Pandas, Plotly. "
+    },
+    {
+        "id": "119330769",
+        "name": "Руководитель направления Продвинутая аналитика и моделирование",
+        "url": "https://hh.ru/vacancy/119330769",
+        "employer": "Банк ДОМ.РФ",
+        "salary": "Зарплата не указана",
+        "description": "Продвинутая аналитика, преимущественно по табличным данным (SQL + методы DS). Уверенное знание <highlighttext>Python</highlighttext> и библиотек для работы с данными. "
+    },
+    {
+        "id": "118776694",
+        "name": "Разработчик на C++ в команду конфигов и экспериментов",
+        "url": "https://hh.ru/vacancy/118776694",
+        "employer": "Яндекс",
+        "salary": "Зарплата не указана",
+        "description": "Работать с высокими нагрузками. Знакомы с <highlighttext>Python</highlighttext> 3 или готовы с ним познакомиться. Умеете работать с SQL-подобными СУБД. "
+    },
+    {
+        "id": "118900797",
+        "name": "Инженер по интеграции и пресейлу",
+        "url": "https://hh.ru/vacancy/118900797",
+        "employer": "ФРОМТЕК",
+        "salary": "Зарплата не указана",
+        "description": "Понимание принципов CI/CD, мониторинга (Zabbix, Grafana). Навыки скриптования: Bash, <highlighttext>Python</highlighttext>. Знание английского на уровне чтения технической документации и деловой..."
+    },
+    {
+        "id": "114822514",
+        "name": "Senior Software Engineer C (Linux kernel) / Разработчик C (Linux kernel) (TATLIN.FLEX)",
+        "url": "https://hh.ru/vacancy/114822514",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Отличное знание языка С. Знание классических алгоритмов и структур данных. Опыт разработки в Linux kernel. Понимание работы ядра Linux (mm..."
+    },
+    {
+        "id": "118956730",
+        "name": "Сетевой аналитик",
+        "url": "https://hh.ru/vacancy/118956730",
+        "employer": "ТехАргос",
+        "salary": "Зарплата не указана",
+        "description": "Опыт администрирования Linux серверов и знание сетевого стека Linux. Опыт работы со скриптовыми языками программирования, например, Bash или <highlighttext>Python</highlighttext>."
+    },
+    {
+        "id": "119421859",
+        "name": "Senior DevOps Engineer",
+        "url": "https://hh.ru/vacancy/119421859",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Навыки работы с инструментами непрерывной интеграции, автоматизации, виртуализации, контейнеризации, оркестрации. Понимание принципов работы аппаратуры и операционных систем, опыт системного администрирования. "
+    },
+    {
+        "id": "118085307",
+        "name": "Senior Data Engineer (FinTech)",
+        "url": "https://hh.ru/vacancy/118085307",
+        "employer": "Займиго МФК",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы с реляционными (Postgresql, MySQL) и нереляционными БД (Clickhouse, HBase). Высокая степень знания <highlighttext>Python</highlighttext>. Опыт написания технической документации. "
+    },
+    {
+        "id": "117820492",
+        "name": "Инженер по разработке и поддержке сервисов для команд разработчиков (ДПВР)",
+        "url": "https://hh.ru/vacancy/117820492",
+        "employer": "СБЕР",
+        "salary": "Зарплата не указана",
+        "description": "Знание <highlighttext>Python</highlighttext>, GitLab CI, Pytest, Allure TesOps, Grafana. Опыт работы с тестовыми отчетами. Опыт работы с облачной инфраструктурой, Kubernetes. "
+    },
+    {
+        "id": "110207203",
+        "name": "DSP Developer",
+        "url": "https://hh.ru/vacancy/110207203",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Знание языка программирования Matlab, опыт работы в средах Matlab/Octave. Опыт программирования на <highlighttext>Python</highlighttext>. Знания сетевых технологий и протоколов. "
+    },
+    {
+        "id": "110207328",
+        "name": "Инженер по тестированию СВЧ усилителей мощности",
+        "url": "https://hh.ru/vacancy/110207328",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Желательно владение на базовом уровне одним или несколькими языками программирования (например, <highlighttext>Python</highlighttext>, Matlab, С++, LabView). Умение работать с научно-технической..."
+    },
+    {
+        "id": "119312835",
+        "name": "Старший инженер по автоматизации разработки ПО",
+        "url": "https://hh.ru/vacancy/119312835",
+        "employer": "НПП Полет",
+        "salary": "Зарплата не указана",
+        "description": "Высшее вычислительной техники, вычислительной математики. Опыт работы не менее 3 лет для старшего инженера. Чтение технической документации на английском языке. "
+    },
+    {
+        "id": "107381214",
+        "name": "Старший инженер (специалист по тестированию радиоэлектронной аппаратуры)",
+        "url": "https://hh.ru/vacancy/107381214",
+        "employer": "НПП Полет",
+        "salary": "Зарплата не указана",
+        "description": "C, C++, C#, <highlighttext>Python</highlighttext>, JSON, JAML, XML, CMake. Redmine, Jira. Google Tests, Pytest, RobotFramework. Excel, Word. Docker, VBox, QEmu. "
+    },
+    {
+        "id": "118615793",
+        "name": "DevOps-инженер",
+        "url": "https://hh.ru/vacancy/118615793",
+        "employer": "СимбирСофт",
+        "salary": "Зарплата не указана",
+        "description": "...Docker, Docker Compose, Kubernetes). Понимание основных концепций облачных платформ (Yandex Cloud, AWS, GCP). Знание базовых скриптовых языков программирования (<highlighttext>Python</highlighttext>, Bash)."
+    },
+    {
+        "id": "118951842",
+        "name": "Инженер по разработке системного ПО",
+        "url": "https://hh.ru/vacancy/118951842",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы с симуляторами (QEMU, Spike, Sail, Gem5, Simics). Знание <highlighttext>Python</highlighttext>. Знание assembler. Опыт работы с FPGA."
+    },
+    {
+        "id": "118209526",
+        "name": "Специалист по количественным исследованиям (HR-маркетинг)",
+        "url": "https://hh.ru/vacancy/118209526",
+        "employer": "Яндекс Крауд",
+        "salary": "Зарплата не указана",
+        "description": "Умеете подбирать методологию и выборку, составлять квотное задание, знаете базовые исследовательские понятия и основы статистики. Знаете <highlighttext>Python</highlighttext> (будет плюсом). "
+    },
+    {
+        "id": "118643696",
+        "name": "Системный аналитик",
+        "url": "https://hh.ru/vacancy/118643696",
+        "employer": "DSSL",
+        "salary": "Зарплата не указана",
+        "description": "Понимание нюансов и принципов WEB-разработки. Базовые навыки программирования, предпочтительно <highlighttext>python</highlighttext>. Навыки работы с инструментами визуализации данных, такими как PowerBI. "
+    },
+    {
+        "id": "119084140",
+        "name": "Программист MS SQL",
+        "url": "https://hh.ru/vacancy/119084140",
+        "employer": "МКК Срочноденьги",
+        "salary": "Зарплата не указана",
+        "description": "Ответственность, дисциплинированность, ориентированность на результат и качество работы. MS SQL, MySQL. PHP 5.6, Smarty, JS, <highlighttext>Python</highlighttext>. Nginx, RedMine, TortoiseSVN."
+    },
+    {
+        "id": "119319590",
+        "name": "Специалист сопровождения RPA",
+        "url": "https://hh.ru/vacancy/119319590",
+        "employer": "БАНК УРАЛСИБ",
+        "salary": "Зарплата не указана",
+        "description": "Изучаешь новые технологии и методики в области RPA. Знания UiPath, Primo, Robin, PIX RPA (желательно PIX RPA), C#, <highlighttext>Python</highlighttext> будет..."
+    },
+    {
+        "id": "118611254",
+        "name": "Аналитик продаж",
+        "url": "https://hh.ru/vacancy/118611254",
+        "employer": "Ростелеком",
+        "salary": "Зарплата не указана",
+        "description": "Понимание основ построения мотивации для продающих сотрудников. Отличное знание excel. Знание <highlighttext>Python</highlighttext> как преимущество. Опыт работы в телекоммуникациях."
+    },
+    {
+        "id": "118557533",
+        "name": "Архитектор",
+        "url": "https://hh.ru/vacancy/118557533",
+        "employer": "Т-Банк",
+        "salary": "Зарплата не указана",
+        "description": "Хорошо разбираетесь в одном из стеков разработки — .NET, Java, <highlighttext>Python</highlighttext>, Go, Scala, C++ — и готовы писать код. Есть навыки проектирования..."
+    },
+    {
+        "id": "118363036",
+        "name": "Cистемный аналитик",
+        "url": "https://hh.ru/vacancy/118363036",
+        "employer": "Криптонит",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы в IT-индустрии от 3-х лет. Понимание основ разработки программного обеспечения. Знание и умение применять на практике..."
+    },
+    {
+        "id": "92154480",
+        "name": "Системный программист в отдел адаптации ОС Аврора",
+        "url": "https://hh.ru/vacancy/92154480",
+        "employer": "Открытая мобильная платформа",
+        "salary": "Зарплата не указана",
+        "description": "Опыт написания или отладки кода на С++ и <highlighttext>Python</highlighttext>. Понимание ядра Linux, опыт написание и/или отладки модулей ядра. "
+    },
+    {
+        "id": "118956656",
+        "name": "AQA Engineer (middle+/middle)",
+        "url": "https://hh.ru/vacancy/118956656",
+        "employer": "ТехАргос",
+        "salary": "Зарплата не указана",
+        "description": "<highlighttext>Python</highlighttext> (PyTest, Selenium, Requests). Linux (Ubuntu, Astra, Debian, Centos). TMS (Allure TestOps). OSI/ISO (wireshark, tcpdump). SQL (PostgreSQL, Clickhouse). GIT. "
+    },
+    {
+        "id": "118969710",
+        "name": "Системный администратор Linux",
+        "url": "https://hh.ru/vacancy/118969710",
+        "employer": "ЮMoney",
+        "salary": "Зарплата не указана",
+        "description": "Имеете практический опыт программирования на одном из языков: Bash, <highlighttext>Python</highlighttext> или Go (некоторые внутренние инструменты мы разрабатываем сами). "
+    },
+    {
+        "id": "119329622",
+        "name": "Data Engineer (Hadoop+Java)",
+        "url": "https://hh.ru/vacancy/119329622",
+        "employer": "Neoflex",
+        "salary": "Зарплата не указана",
+        "description": "Уверенные знания SQL. Опыт работы с Hadoop, Spark, понимание архитектуры и инструментов кластера. Понимание принципов построения хранилищ данных. "
+    },
+    {
+        "id": "119272435",
+        "name": "Python разработчик (MLOps) / Инженер поддержки ML-систем",
+        "url": "https://hh.ru/vacancy/119272435",
+        "employer": "Т1",
+        "salary": "Зарплата не указана",
+        "description": "Уверенное владение <highlighttext>Python</highlighttext> (от 2 лет). Понимание принципов интеграции между системами и сервисами. Опыт работы с системами контроля версий (Git). "
+    },
+    {
+        "id": "117020859",
+        "name": "Аналитик отдела планирования и экономического анализа",
+        "url": "https://hh.ru/vacancy/117020859",
+        "employer": "ЭОС",
+        "salary": "Зарплата не указана",
+        "description": "Готовность к работе с несколькими задачами одновременно. Знание основ Power Bi. Начальное знакомство с <highlighttext>Python</highlighttext>. Понимание логики построения сценариев в..."
+    },
+    {
+        "id": "119081907",
+        "name": "LLM Tech Lead",
+        "url": "https://hh.ru/vacancy/119081907",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Опыт написания технического задания, включая техническое описание реализации необходимого функционала. Глубокие знания и практические опыт разработчика на <highlighttext>Python</highlighttext> (разработка, профилировка..."
+    },
+    {
+        "id": "118418235",
+        "name": "Разработчик витрин данных (PostgreSQL)",
+        "url": "https://hh.ru/vacancy/118418235",
+        "employer": "Neoflex",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы с PostgreSQL, Spark. Умение писать сложные SQL-запросы. Опыт разработки ETL-потоков. Опыт работы с Airflow. Знание <highlighttext>Python</highlighttext>."
+    },
+    {
+        "id": "94532645",
+        "name": "Системный программист С/С++ (разработка ОС Аврора)",
+        "url": "https://hh.ru/vacancy/94532645",
+        "employer": "Открытая мобильная платформа",
+        "salary": "Зарплата не указана",
+        "description": "Знание архитектуры Linux, опыт работы с ядром Linux. Знание С/С++, bash, <highlighttext>python</highlighttext>. Знание libc и POSIX API. Знание STL. "
+    },
+    {
+        "id": "118239334",
+        "name": "Инженер по виртуальной инфраструктуре",
+        "url": "https://hh.ru/vacancy/118239334",
+        "employer": "T2",
+        "salary": "Зарплата не указана",
+        "description": "Опыт настройки мониторинга (Zabbix, Prometheus, Nagios) будет плюсом. Опыт автоматизации рутинных задач, знание скриптовых языков (Bash, <highlighttext>Python</highlighttext>, PowerShell) будет плюсом."
+    },
+    {
+        "id": "119280497",
+        "name": "Lead Infrastructure Engineer",
+        "url": "https://hh.ru/vacancy/119280497",
+        "employer": "Гарда Технологии",
+        "salary": "Зарплата не указана",
+        "description": "Понимание процесса непрерывной интеграции CI\\CD. Будет плюсом: Знание CI/CD. Понимание принципов работы систем информационной безопасности."
+    },
+    {
+        "id": "117582494",
+        "name": "Python developer / Разработчик Python (KORNFELD)",
+        "url": "https://hh.ru/vacancy/117582494",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Уверенное владение <highlighttext>Python</highlighttext>3 в области сетевого программирования (sockets). Знание сетевых технологий, стека протоколов TCP/IP + представление о модели..."
+    },
+    {
+        "id": "119164014",
+        "name": "Системный аналитик DWH",
+        "url": "https://hh.ru/vacancy/119164014",
+        "employer": "Neoflex",
+        "salary": "Зарплата не указана",
+        "description": "Уверенное знание SQL, понимание нормализации, опыт разработки витрин. Базовые знания построения хранилищ, витрин, моделей данных. Логическое мышление, структурированное выражение своих..."
+    },
+    {
+        "id": "118655006",
+        "name": "Инженер автоматизированного тестирования",
+        "url": "https://hh.ru/vacancy/118655006",
+        "employer": "Цитадель",
+        "salary": "Зарплата не указана",
+        "description": "ООП (основные принципы, связи между классами, шаблоны проектирования, SOLID). Linux (умение работать с файлами и процессами из консоли, настройка и..."
+    },
+    {
+        "id": "118363053",
+        "name": "Cистемный аналитик",
+        "url": "https://hh.ru/vacancy/118363053",
+        "employer": "Криптонит",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы в IT-индустрии от 3-х лет. Понимание основ разработки программного обеспечения. Знание и умение применять на практике..."
+    },
+    {
+        "id": "115509122",
+        "name": "Python Backend developer / Инженер-программист (Testing Tools)",
+        "url": "https://hh.ru/vacancy/115509122",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> (3.5+) от 3 лет. Опыт работы с одним из фреймворков Django/DRF/Flask..."
+    },
+    {
+        "id": "117697787",
+        "name": "Старший Аналитик",
+        "url": "https://hh.ru/vacancy/117697787",
+        "employer": "ANCOR",
+        "salary": "Зарплата не указана",
+        "description": "Понимание работы и основных критериев эффективности опросов потребителей. Базовый уровень владения <highlighttext>Python</highlighttext>. Знание работы систем оценки качества, CRM-систем (BPM..."
+    },
+    {
+        "id": "118523837",
+        "name": "AI-Программист",
+        "url": "https://hh.ru/vacancy/118523837",
+        "employer": "Wild Forest (ИП Корнилов Сергей Владимирович)",
+        "salary": "Зарплата не указана",
+        "description": "Если ты: Увлекаешься возможностями современных AI-инструментов. - Опыт работы с <highlighttext>Python</highlighttext> от 2 лет. - Понимание принципов SOLID, KISS. - "
+    },
+    {
+        "id": "113914368",
+        "name": "QA Automation Engineer (Python) / Инженер по автоматизированному тестированию",
+        "url": "https://hh.ru/vacancy/113914368",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Участие в проектах по тестированию программного обеспечения. Знание <highlighttext>Python</highlighttext>. Умение работать с технической документацией. Знание современных систем контроля версий и..."
+    },
+    {
+        "id": "118956702",
+        "name": "Software Development Engineer in Test (SDET)",
+        "url": "https://hh.ru/vacancy/118956702",
+        "employer": "ТехАргос",
+        "salary": "Зарплата не указана",
+        "description": "Высшее техническое образование. Опыт программирования на <highlighttext>Python</highlighttext>. Опыт построения процесса тестирования: написание тест-сценариев, подготовка документации, проведение. Знание базовых сетевых..."
+    },
+    {
+        "id": "118485949",
+        "name": "Data-инженер",
+        "url": "https://hh.ru/vacancy/118485949",
+        "employer": "СБЕР",
+        "salary": "Зарплата не указана",
+        "description": "Опыт разработки сложных запросов на СУБД Teradata, или Oracle, или MS SQL. Опыт работы с Hadoop, SPARK, <highlighttext>Python</highlighttext>."
+    },
+    {
+        "id": "119069359",
+        "name": "SRE/DevOps engineer (RecSys AmazMe)",
+        "url": "https://hh.ru/vacancy/119069359",
+        "employer": "СБЕР",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы с openshift/docker, навыки работы с языками скриптования (<highlighttext>python</highlighttext>, bash). Опыт работы в Linux, знание основных команд и..."
+    },
+    {
+        "id": "118511946",
+        "name": "Tech Lead",
+        "url": "https://hh.ru/vacancy/118511946",
+        "employer": "Т-Банк",
+        "salary": "Зарплата не указана",
+        "description": "Есть опыт проектирования и разработки распределенных систем с использованием одного из стеков разработки: .NET, Java, <highlighttext>Python</highlighttext>, Go, Scala, C++. "
+    },
+    {
+        "id": "119166842",
+        "name": "DevOps инженер",
+        "url": "https://hh.ru/vacancy/119166842",
+        "employer": "АДЕПТ, Группа компаний",
+        "salary": "Зарплата не указана",
+        "description": "Опыт построения и оптимизации CI/CD. Знания и опыт разработки скриптов (<highlighttext>python</highlighttext>/bash/perl и др.) для автоматизации широкого спектра..."
+    },
+    {
+        "id": "119375523",
+        "name": "Data инженер DWH (Hadoop)",
+        "url": "https://hh.ru/vacancy/119375523",
+        "employer": "Neoflex",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы в Банках или страховых компаниях. Представление о BigData: Hive, Spark. Навыки работы с оркестраторами: oozie, Airflow. "
+    },
+    {
+        "id": "110207456",
+        "name": "Инженер по разработке встраиваемого ПО (Embedded Linux BSP)",
+        "url": "https://hh.ru/vacancy/110207456",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Умение читать и понимать принципиальные схемы для печатных плат. Знание скриптовых языков (Shell, <highlighttext>Python</highlighttext> и др.). Умение работать с системами..."
+    },
+    {
+        "id": "117795919",
+        "name": "R&D разработчик (Центр компетенций CV и нейросетевой оптимизации)",
+        "url": "https://hh.ru/vacancy/117795919",
+        "employer": "Navio (ООО Автотех)",
+        "salary": "Зарплата не указана",
+        "description": "Опыт обучения НС с использованием PyTorch, TensorFlow от 3-х лет. Опыт разработки на <highlighttext>Python</highlighttext>/C++ от 3-х лет..."
+    },
+    {
+        "id": "110207370",
+        "name": "Инженер по тестированию радиоэлектронной аппаратуры",
+        "url": "https://hh.ru/vacancy/110207370",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Желательно владение на базовом уровне одним или несколькими языками программирования (например, <highlighttext>Python</highlighttext>, Matlab, С++, LabView). Желательно иметь навыки работы в..."
+    },
+    {
+        "id": "115602000",
+        "name": "Senior Java/C# Engineer с переходом на Go (Telecom)",
+        "url": "https://hh.ru/vacancy/115602000",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Дополнительно приветствуем: Знание протоколов SNMP, NETCONF, SOAP, REST. Знание скриптовых языков (<highlighttext>Python</highlighttext>, Shell, Perl, etc.). Опыт системного программирования. "
+    },
+    {
+        "id": "119081940",
+        "name": "Senior Java Developer",
+        "url": "https://hh.ru/vacancy/119081940",
+        "employer": "Теком",
+        "salary": "Зарплата не указана",
+        "description": "Будет плюсом: Опыт разработки решений для сетевого оборудования. Будет плюсом: Знание скриптовых языков (<highlighttext>Python</highlighttext>, Unix shells, Java Script). "
+    },
+    {
+        "id": "117138055",
+        "name": "Senior Scoring Developer",
+        "url": "https://hh.ru/vacancy/117138055",
+        "employer": "Займиго МФК",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы: от 3-х лет в сфере розничных рисков в области моделирования (МФО/банки/коллекшн). Опыт разработки скоринговых моделей..."
+    },
+    {
+        "id": "119066095",
+        "name": "Бизнес-аналитик голосовых сервисов",
+        "url": "https://hh.ru/vacancy/119066095",
+        "employer": "Совкомбанк Технологии",
+        "salary": "Зарплата не указана",
+        "description": "Будет плюсом: Базовое знание SQL, умение читать ERD. Базовое знание <highlighttext>Python</highlighttext>. Базовое понимание технологий голосовой связи и систем телефонии (SIP..."
+    },
+    {
+        "id": "117698049",
+        "name": "Разработчик RPA",
+        "url": "https://hh.ru/vacancy/117698049",
+        "employer": "Северсталь",
+        "salary": "Зарплата не указана",
+        "description": "Имеете опыт программирования на языках VBA, <highlighttext>Python</highlighttext>, SQL, Java (циклы/условия/переменные/функции/регулярные выражения) не менее 1 года. "
+    },
+    {
+        "id": "117534262",
+        "name": "Аналитик продаж",
+        "url": "https://hh.ru/vacancy/117534262",
+        "employer": "Крупная FMCG компания",
+        "salary": "Зарплата не указана",
+        "description": "Отлично владею Microsoft Ехсеl (Роwer Query, Power Pivot, DAX). Знаком с <highlighttext>Python</highlighttext> (pandas) (желательно). Знаком с SQL и работой с..."
+    },
+    {
+        "id": "117079885",
+        "name": "Специалист по аналитической поддержки отдела планирования",
+        "url": "https://hh.ru/vacancy/117079885",
+        "employer": "ANCOR",
+        "salary": "Зарплата не указана",
+        "description": "Знание и опыт работа с <highlighttext>Python</highlighttext>-скриптами для обработки данных (библиотеки NumPy, Pandas). Знание Power Point, Excel, Power Query на..."
+    },
+    {
+        "id": "118516803",
+        "name": "Инженер по проектированию СВЧ и аналоговых печатных плат",
+        "url": "https://hh.ru/vacancy/118516803",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Опыт разработки (схемотехника, прорисовка топологии) и тестирования цифровых и аналоговых модулей. Знание основ Matlab, <highlighttext>Python</highlighttext>, LabView. Опыт работы в Jira..."
+    },
+    {
+        "id": "115412403",
+        "name": "Архитектор систем беспроводной связи",
+        "url": "https://hh.ru/vacancy/115412403",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Знание языков С/C++, <highlighttext>Python</highlighttext> и сред программирования Matlab / Simulink, опыт разработки с использованием данных средства. Опыт численного моделирования систем..."
+    },
+    {
+        "id": "119286977",
+        "name": "Middle С++ developer",
+        "url": "https://hh.ru/vacancy/119286977",
+        "employer": "Гарда Технологии",
+        "salary": "Зарплата не указана",
+        "description": "Опыт разработки многопоточных клиент-серверных приложений. Понимание <highlighttext>Python</highlighttext>. Умение писать аккуратный, понятный код и поддерживать его качество на высоком уровне."
+    },
+    {
+        "id": "116357268",
+        "name": "ML - инженер",
+        "url": "https://hh.ru/vacancy/116357268",
+        "employer": "СБЕР",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы с большими данными и моделями приветствуется. Базовые знания MS Excel, <highlighttext>Python</highlighttext>, SQL. Хорошее знание линейных (OLS, Ridge, Lasso..."
+    },
+    {
+        "id": "118516994",
+        "name": "Инженер по тестированию цифровых модемов (Wireless modem QA engineer)",
+        "url": "https://hh.ru/vacancy/118516994",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы с системами контроля версий (Git, SVN). Владение скриптовыми языками (<highlighttext>Python</highlighttext>/TCL/Bash) и опыт их применения для работы..."
+    },
+    {
+        "id": "118403320",
+        "name": "Geometrical Modeling (CAD) Engineer (Senior/Middle)",
+        "url": "https://hh.ru/vacancy/118403320",
+        "employer": "Poissonsoft",
+        "salary": "Зарплата не указана",
+        "description": "Practical experience in developing geometrical or numerical algorithms. Familiar with CAD/CAM/CAE domain. Strong mathematical background. Good communication and..."
+    },
+    {
+        "id": "110207296",
+        "name": "Инженер по интеграционному тестированию систем мобильной связи",
+        "url": "https://hh.ru/vacancy/110207296",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Желательно владение на базовом уровне одним или несколькими языками программирования (например, <highlighttext>Python</highlighttext>, Matlab, С++, LabView). Умение работать с научно-технической..."
+    },
+    {
+        "id": "118962429",
+        "name": "Специалист по работе с мастер-данными",
+        "url": "https://hh.ru/vacancy/118962429",
+        "employer": "Объединенные Пивоварни",
+        "salary": "Зарплата не указана",
+        "description": "Навыки владения иными инструментами аналитики, позволяющими обрабатывать большие массивы данных (<highlighttext>python</highlighttext>), базовый SQL, знание PowerBI (будет являться преимуществом). "
+    },
+    {
+        "id": "119159051",
+        "name": "Data Engineer / Hadoop",
+        "url": "https://hh.ru/vacancy/119159051",
+        "employer": "Neoflex",
+        "salary": "Зарплата не указана",
+        "description": "Уверенный уровень sql (в пределах стандарта, без привязки к СУБД). Представления о java / <highlighttext>python</highlighttext>( иногда приходится писать фрагменты кода - как..."
+    },
+    {
+        "id": "118833106",
+        "name": "Senior Data Scientist (RecSys)",
+        "url": "https://hh.ru/vacancy/118833106",
+        "employer": "СБЕР",
+        "salary": "Зарплата не указана",
+        "description": "Экспертиза в области алгоритмов машинного обучения, особое внимание уделяется методам глубокого обучения (DL). Знание <highlighttext>Python</highlighttext> и ключевых DS-фреймворков (PyTorch..."
+    },
+    {
+        "id": "118690759",
+        "name": "Младший инженер по автоматизированному тестированию",
+        "url": "https://hh.ru/vacancy/118690759",
+        "employer": "IBS",
+        "salary": "Зарплата не указана",
+        "description": "Обязательные: Преобладание опыта тестирования backend (API, JSON, SQL, DevTools). Pytest:( фикстуры, параметризация ). Общее владение <highlighttext>Python</highlighttext> (циклы, базовые алгоритмы, типы данных..."
+    },
+    {
+        "id": "118642955",
+        "name": "Data Engineer",
+        "url": "https://hh.ru/vacancy/118642955",
+        "employer": "АНО АЦГ",
+        "salary": "Зарплата не указана",
+        "description": "Знание <highlighttext>Python</highlighttext> с библиотеками для обработки данных. Понимание архитектуры REST API. Опыт работы с FastAPI, Flask. Навыки работы с PostgreSQL..."
+    },
+    {
+        "id": "110207257",
+        "name": "Инженер по автоматизации производственного тестирования радиомодулей",
+        "url": "https://hh.ru/vacancy/110207257",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Уверенное владение одним или несколькими языками программирования (например, <highlighttext>Python</highlighttext>, Matlab, С++, LabView). Уверенная работа в ОС семейства Windows и Linux. "
+    },
+    {
+        "id": "119384426",
+        "name": "Стажер-разработчик бэкенда",
+        "url": "https://hh.ru/vacancy/119384426",
+        "employer": "Яндекс",
+        "salary": "Зарплата не указана",
+        "description": "Что нужно уметь: — Разбираться в алгоритмах и классических структурах данных."
+    },
+    {
+        "id": "118772006",
+        "name": "DevOps инженер",
+        "url": "https://hh.ru/vacancy/118772006",
+        "employer": "Гарда Технологии",
+        "salary": "Зарплата не указана",
+        "description": "...плейбуков, ролей, конфигурация шаблонов. Администрирования сетей TCP/IP. Будет плюсом: Уверенное владение скриптовыми языками Bash, <highlighttext>Python</highlighttext>). Навыки администрирования Linux серверов."
+    },
+    {
+        "id": "118918041",
+        "name": "Data Science (Разработка моделей КИБ и СМБ)",
+        "url": "https://hh.ru/vacancy/118918041",
+        "employer": "Т1",
+        "salary": "Зарплата не указана",
+        "description": "Какие знания и навыки для нас важны: Высшее образование (IT, техническое, математическое). Уверенное владение <highlighttext>Python</highlighttext>, SQL, PySpark. Хорошие знания в..."
+    },
+    {
+        "id": "118983004",
+        "name": "Начальник центра управления IT-проектами",
+        "url": "https://hh.ru/vacancy/118983004",
+        "employer": "ГАЗ",
+        "salary": "Зарплата не указана",
+        "description": "Одного и более языков программирования: Java, С#, Basic, Oracle PL/SQL, C++, JavaScript, <highlighttext>Python</highlighttext>. Построения сетевой, серверной инфраструктуры, стандартов проектирования..."
+    },
+    {
+        "id": "118516890",
+        "name": "Инженер по проектированию аналогово-цифровых печатных плат",
+        "url": "https://hh.ru/vacancy/118516890",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Опыт разработки (схемотехника, прорисовка топологии) и тестирования аналоговых, аналогово-цифровых модулей. Знание основ Matlab, <highlighttext>Python</highlighttext>, LabView. Опыт работы в Jira..."
+    },
+    {
+        "id": "118490555",
+        "name": "Специалист бизнес поддержки",
+        "url": "https://hh.ru/vacancy/118490555",
+        "employer": "СБЕР",
+        "salary": "Зарплата не указана",
+        "description": "Продвинутый уровень владения MS Excel. Опыт работы с SQL и знание <highlighttext>Python</highlighttext> будет преимуществом. Навык подготовки и проведения презентаций. "
+    },
+    {
+        "id": "117872699",
+        "name": "Финансовый аналитик",
+        "url": "https://hh.ru/vacancy/117872699",
+        "employer": "СБЕР",
+        "salary": "Зарплата не указана",
+        "description": "Базовое владение SQL (написание запросов к базам данных) – будет плюсом. Опыт работы с <highlighttext>Python</highlighttext> будет преимуществом. Навыки подготовки презентаций и..."
+    },
+    {
+        "id": "115131497",
+        "name": "Embedded QA",
+        "url": "https://hh.ru/vacancy/115131497",
+        "employer": "Открытая мобильная платформа",
+        "salary": "Зарплата не указана",
+        "description": "Знание и умение применять для автоматизации тестирования скриптовые языки <highlighttext>Python</highlighttext> / Bash (Unix shell scripting) будет плюсом. Опыт работы с драйверами..."
+    },
+    {
+        "id": "118619401",
+        "name": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/118619401",
+        "employer": "Первый ОФД",
+        "salary": "Зарплата не указана",
+        "description": "Хорошее знание <highlighttext>Python</highlighttext> или R (особенно pandas или tidyverse в R). Знание основ статистического анализа данных. Работа в Jupyterlab или..."
+    },
+    {
+        "id": "119420294",
+        "name": "MLOps инженер",
+        "url": "https://hh.ru/vacancy/119420294",
+        "employer": "ГК АГАТ",
+        "salary": "Зарплата не указана",
+        "description": "Глубокое понимание теории машинного обучения, алгоритмов и статистических методов. Опыт работы с SQL, <highlighttext>Python</highlighttext>, Git, Docker, DVC. Уверенная работа с..."
+    },
+    {
+        "id": "118034819",
+        "name": "Data Scientist (Computer Vision)",
+        "url": "https://hh.ru/vacancy/118034819",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Опыт в разработке алгоритмов компьютерного зрения, знание основных алгоритмов ML/DL. Уверенное владение <highlighttext>Python</highlighttext>. Хорошее знание основных фреймворков и библиотек..."
+    },
+    {
+        "id": "119291228",
+        "name": "Разработчик Python ETL",
+        "url": "https://hh.ru/vacancy/119291228",
+        "employer": "Bell Integrator",
+        "salary": "Зарплата не указана",
+        "description": "Понимание DevOps процессов. Приветствуются знания в банковской предметке: продукты, транзакции, отчётность. <highlighttext>Python</highlighttext>: Уверено пишет функции, классы, декораторы. Использует списковые включения..."
+    },
+    {
+        "id": "119213261",
+        "name": "Инженер по автоматизации тестирования, Python, API, Ozon Bank",
+        "url": "https://hh.ru/vacancy/119213261",
+        "employer": "Ozon",
+        "salary": "Зарплата не указана",
+        "description": "Обладаете опытом тестирования API (мы используем gRPC, GraphQL, REST). Знаете инструменты автоматизации тестирования на <highlighttext>Python</highlighttext>: PyTest, Allure, Requests или аналоги. "
+    },
+    {
+        "id": "117775401",
+        "name": "Junior+ DevOps-инженер",
+        "url": "https://hh.ru/vacancy/117775401",
+        "employer": "АНО АЦГ",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы над коммерческими проектами. Опыт работы с Linux. Опыт работы с Docker. Опыт работы с облачными сервисами (желательно Yandex.Cloud). "
+    },
+    {
+        "id": "116012514",
+        "name": "Tech Lead/Senior Data Engineer",
+        "url": "https://hh.ru/vacancy/116012514",
+        "employer": "Effective Technologies",
+        "salary": "Зарплата не указана",
+        "description": "Опыт разработки на <highlighttext>Python</highlighttext> и работы с библиотеками для трансформации данных: Pandas, NumPy, PySpark. Умение подключаться к любым источникам: API..."
+    },
+    {
+        "id": "117617536",
+        "name": "Главный SQL аналитик направления клиентского опыта",
+        "url": "https://hh.ru/vacancy/117617536",
+        "employer": "Почта Банк",
+        "salary": "Зарплата не указана",
+        "description": "Навыки работы с различными СУБД2 и средствами анализа данных (SQL Server, Oracle, SAS, <highlighttext>Python</highlighttext>). Знание MS Office на уровне..."
+    },
+    {
+        "id": "117833193",
+        "name": "Младший инженер программист в отдел адаптации ОС Аврора",
+        "url": "https://hh.ru/vacancy/117833193",
+        "employer": "Открытая мобильная платформа",
+        "salary": "Зарплата не указана",
+        "description": "Знание С, bash. Опыт написания или отладки кода на С++ и <highlighttext>Python</highlighttext>. Понимание ядра Linux. Опыт системного программирования. "
+    },
+    {
+        "id": "117183535",
+        "name": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/117183535",
+        "employer": "Ростелеком",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы с инструментами для анализа данных и моделирования <highlighttext>Python</highlighttext>, Excel, специализированные BI-инструменты. Знание методологий ценообразования и экономической теории..."
+    },
+    {
+        "id": "118564616",
+        "name": "Middle Golang Developer",
+        "url": "https://hh.ru/vacancy/118564616",
+        "employer": "Гарда Технологии",
+        "salary": "Зарплата не указана",
+        "description": "Уверенное владение операционными системами GNU/Linux (особенно дистрибутивами на базе Debian). Опыт работы с базами данных, написание и оптимизация запросов. "
+    },
+    {
+        "id": "119279770",
+        "name": "Системный администратор",
+        "url": "https://hh.ru/vacancy/119279770",
+        "employer": "Гарда Технологии",
+        "salary": "Зарплата не указана",
+        "description": "Понимание принципов функционирования информационно-вычислительных сетей. Модель OSI, маршрутизация, vlan, dhcp. Опыт с СУБД (PostgreSQl, MS SQL, MySQL). "
+    },
+    {
+        "id": "118313613",
+        "name": "Стажер-автотестировщик",
+        "url": "https://hh.ru/vacancy/118313613",
+        "employer": "Цитадель",
+        "salary": "Зарплата не указана",
+        "description": "Знание основ построения Сетей передачи данных и стека протоколов TCP/IP. Умение работать на <highlighttext>Python</highlighttext> на базовом уровне. "
+    },
+    {
+        "id": "116358692",
+        "name": "SQL аналитик",
+        "url": "https://hh.ru/vacancy/116358692",
+        "employer": "Почта Банк",
+        "salary": "Зарплата не указана",
+        "description": "Навыки работы с различными СУБД2 и средствами анализа данных (SQL Server, Oracle, SAS, <highlighttext>Python</highlighttext>). Знание MS Office на уровне..."
+    },
+    {
+        "id": "109201400",
+        "name": "Python разработчик",
+        "url": "https://hh.ru/vacancy/109201400",
+        "employer": "Т-Банк",
+        "salary": "Зарплата не указана",
+        "description": "Отличное знание <highlighttext>Python</highlighttext> 3 и опыт промышленной разработки на <highlighttext>Python</highlighttext> от трех лет. Опыт многопоточного и асинхронного программирования. "
+    },
+    {
+        "id": "117077041",
+        "name": "Аналитик (офис)",
+        "url": "https://hh.ru/vacancy/117077041",
+        "employer": "Вертекс",
+        "salary": "Зарплата не указана",
+        "description": "Сильные аналитические способности, высокий уровень внимательности и ответственности, умение работать с большим объемом данных. Опыт работы в аналитике от 2..."
+    },
+    {
+        "id": "87589289",
+        "name": "Аналитик SOC",
+        "url": "https://hh.ru/vacancy/87589289",
+        "employer": "Платформикс",
+        "salary": "Зарплата не указана",
+        "description": "Опыт автоматизации решений (<highlighttext>Python</highlighttext> и один из скриптовых языков Bash, PowerShell, Batch). Опыт управления командой. Наличие сертификатов о прохождении сертифицированных..."
+    },
+    {
+        "id": "119371156",
+        "name": "Старший инженер по эксплуатации",
+        "url": "https://hh.ru/vacancy/119371156",
+        "employer": "Гарда Технологии",
+        "salary": "Зарплата не указана",
+        "description": "Будет плюсом: Наличие удостоверения по электробезопасности или готовность его получить. Понимание построения и работы сетей передачи данных. Желание разбираться с..."
+    },
+    {
+        "id": "118654558",
+        "name": "Golang-разработчик",
+        "url": "https://hh.ru/vacancy/118654558",
+        "employer": "Сджей Глобал",
+        "salary": "Зарплата не указана",
+        "description": "Понимание принципов кэширования (Memcached, Tarantool). Опыт интеграций с сервисами Яндекса. Знание <highlighttext>Python</highlighttext> или Lua. Опыт работы с Puppet. "
+    },
+    {
+        "id": "118832853",
+        "name": "Middle Python Back-End Developer",
+        "url": "https://hh.ru/vacancy/118832853",
+        "employer": "Repay",
+        "salary": "Зарплата не указана",
+        "description": "...по <highlighttext>Python</highlighttext> от Яндекса или Skillbox менее двух лет назад. 2+ лет опыта коммерческой разработки. Умение разрабатывать на <highlighttext>Python</highlighttext>..."
+    },
+    {
+        "id": "116331992",
+        "name": "Аналитик бизнес-процессов",
+        "url": "https://hh.ru/vacancy/116331992",
+        "employer": "СБЕР",
+        "salary": "Зарплата не указана",
+        "description": "Навыки и опыт работы в MS Office (глубокие знания), SQL, <highlighttext>Python</highlighttext>. Навыки подготовки презентаций и работы в MS Power Point. "
+    },
+    {
+        "id": "119421957",
+        "name": "Senior/Lead QA Engineer",
+        "url": "https://hh.ru/vacancy/119421957",
+        "employer": "YADRO",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы в QA от 3 лет. Знание скриптовых языков (<highlighttext>python</highlighttext>/shell) и тестовых фреймворков (gtest, pytest, unittest). "
+    },
+    {
+        "id": "119324348",
+        "name": "Сетевой инженер",
+        "url": "https://hh.ru/vacancy/119324348",
+        "employer": "Судоходная компания Волжское пароходство",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы в *nix OS. Опыт автоматизации задач bash/<highlighttext>python</highlighttext>/ansible. Опыт работы и понимание принципа работы каких-либо систем..."
+    },
+    {
+        "id": "118552264",
+        "name": "QA-Engineer на мобильную RTS",
+        "url": "https://hh.ru/vacancy/118552264",
+        "employer": "Gear Games",
+        "salary": "Зарплата не указана",
+        "description": "Базовые знания одного или нескольких языков программирования (<highlighttext>Python</highlighttext>, C#, Java). Знание основ ООП. Основы теории тестирования: виды, принципы, техники тест..."
+    },
+    {
+        "id": "118458298",
+        "name": "Middle Java Developer",
+        "url": "https://hh.ru/vacancy/118458298",
+        "employer": "Теком",
+        "salary": "Зарплата не указана",
+        "description": "Понимание принципов работы сетевых технологий и протоколов. Работа с SNMP. Опыт разработки решений для сетевого оборудования. Знание скриптовых языков (<highlighttext>Python</highlighttext>..."
+    },
+    {
+        "id": "119166256",
+        "name": "Junior+/ Middle Data Scientist",
+        "url": "https://hh.ru/vacancy/119166256",
+        "employer": "ГК АГАТ",
+        "salary": "Зарплата не указана",
+        "description": "Опыт участия в соревнованиях или других проектах. Уверенное владение Linux. Владение <highlighttext>python</highlighttext> в части анализа данных: pandas, numpy, sklearn, xgboost..."
+    },
+    {
+        "id": "118829388",
+        "name": "Аналитик",
+        "url": "https://hh.ru/vacancy/118829388",
+        "employer": "Некст Левел",
+        "salary": "Зарплата не указана",
+        "description": "Навыки эффективной коммуникации в мессенджерах, включая Telegram. Опыт работы с PowerBI , а также в одном из языков программирования: <highlighttext>Python</highlighttext> или..."
+    },
+    {
+        "id": "118809623",
+        "name": "Data Scientist",
+        "url": "https://hh.ru/vacancy/118809623",
+        "employer": "1221Системс",
+        "salary": "Зарплата не указана",
+        "description": "Проектный опыт работы с временными рядами. ​​уверенное владение <highlighttext>Python</highlighttext> и SQL. Навыки работы с sklearn, pandas, plotly, LightGBM, CatBoost, prophet. "
+    },
+    {
+        "id": "119104515",
+        "name": "BI-разработчик",
+        "url": "https://hh.ru/vacancy/119104515",
+        "employer": "Effective Technologies",
+        "salary": "Зарплата не указана",
+        "description": "Базовые навыки работы с Airflow или другими ETL-инструментами. Опыт миграции данных между системами. Знание <highlighttext>Python</highlighttext> для предобработки данных. "
+    },
+    {
+        "id": "119435413",
+        "name": "Product Analyst",
+        "url": "https://hh.ru/vacancy/119435413",
+        "employer": "BLACKHUB GAMES",
+        "salary": "Зарплата не указана",
+        "description": "Отличное знание SQL (ClickHouse, PostgreSQ, т.п.) и <highlighttext>Python</highlighttext> (pandas, scikit-learn, airflow). Хорошее знание математики и статистики. "
+    },
+    {
+        "id": "119288428",
+        "name": "С++ developer",
+        "url": "https://hh.ru/vacancy/119288428",
+        "employer": "Гарда Технологии",
+        "salary": "Зарплата не указана",
+        "description": "Опыт разработки многопоточных клиент-серверных приложений. Понимание <highlighttext>Python</highlighttext>. Умение писать аккуратный, понятный код и поддерживать его качество на высоком уровне."
+    },
+    {
+        "id": "117469076",
+        "name": "Аналитик данных",
+        "url": "https://hh.ru/vacancy/117469076",
+        "employer": "СБЕР",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы с OLAP-кубами, SQL, <highlighttext>Python</highlighttext>, Hadoop и Excel. Критическое мышление и способность эффективно интерпретировать данные. Умение структурированно представлять..."
+    },
+    {
+        "id": "118600651",
+        "name": "Python разработчик (разработчик логики)",
+        "url": "https://hh.ru/vacancy/118600651",
+        "employer": "Neuro.net",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы с Docker, HTTP запросами, Git. Опыт работы с РostgreSQL, SQLAlchemy в <highlighttext>Python</highlighttext>. Будет преимуществом опыт с MongoDB. "
+    },
+    {
+        "id": "118664343",
+        "name": "QA-manual Junior (в офис, г. Нижний Новгород)",
+        "url": "https://hh.ru/vacancy/118664343",
+        "employer": "Аутомэйт-Бизнес",
+        "salary": "Зарплата не указана",
+        "description": "Базовое знание SQL (JOIN-UNION). Умение читать код на языках <highlighttext>Python</highlighttext>, Java, опыт работы в IDE (DataGrip, PyCharm, Intellij IDEA..."
+    },
+    {
+        "id": "119287118",
+        "name": "Python Middle developer",
+        "url": "https://hh.ru/vacancy/119287118",
+        "employer": "Гарда Технологии",
+        "salary": "Зарплата не указана",
+        "description": "Опыт парсинга данных различных форматов (HTML, JSON, XML, …). Знакомство/использование оркестраторов (Apache Airflow). Опыт работы с очередями, например Celery. "
+    },
+    {
+        "id": "119403312",
+        "name": "Программист-разработчик SQL",
+        "url": "https://hh.ru/vacancy/119403312",
+        "employer": "ПРОВИТЕХ",
+        "salary": "Зарплата не указана",
+        "description": "Базовые знания <highlighttext>Python</highlighttext> (написание интеграций). Уверенное знание SQL, работа с СУБД MS SQL. Написание хранимых процедур, функций, сложных запросов, создание..."
+    },
+    {
+        "id": "119210029",
+        "name": "Python разработчик middle+/senior",
+        "url": "https://hh.ru/vacancy/119210029",
+        "employer": "Сджей Глобал",
+        "salary": "Зарплата не указана",
+        "description": "Опыт коммерческой разработки на <highlighttext>Python</highlighttext> от 4 лет. Глубокое понимание FastAPI (паттерны Repository, Service, Unit of Work). Опыт проектирования REST..."
+    },
+    {
+        "id": "118713429",
+        "name": "Python разработчик",
+        "url": "https://hh.ru/vacancy/118713429",
+        "employer": "Форкитех",
+        "salary": "Зарплата не указана",
+        "description": "Стек: FastAPI, SQLAlchemy ORM, Postgres, typing, alembic, pydantic v2, aiohttp, pytest, asyncio, redis, docker. Знания базовых паттернов проектирования, принципов..."
+    },
+    {
+        "id": "119421459",
+        "name": "Инженер-программист",
+        "url": "https://hh.ru/vacancy/119421459",
+        "employer": "Научно-производственное предприятие ПРИМА",
+        "salary": "Зарплата не указана",
+        "description": "Опыт программирования на одном из современных языков: Rust, C, Java, Kotlin, C++ (в версии 11 и выше), <highlighttext>Python</highlighttext>, Javascript (node.js). "
+    },
+    {
+        "id": "118814619",
+        "name": "QA engineer",
+        "url": "https://hh.ru/vacancy/118814619",
+        "employer": "Гарда Технологии",
+        "salary": "Зарплата не указана",
+        "description": "Желание развиваться в автоматизации тестирования (Pytest, Playwright, Selenium, Vitest). Опыт работы с высокоуровневым ЯП (JavaScript, <highlighttext>Python</highlighttext>). Понимание модели OSI и..."
+    },
+    {
+        "id": "119321017",
+        "name": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/119321017",
+        "employer": "МЭК Энергоэффективные технологии",
+        "salary": "Зарплата не указана",
+        "description": "Уверенное владение <highlighttext>Python</highlighttext> в направлении обработки данных (pandas, jinja2, пр.). Знание PEP8. Парсинг excel, xml файлов. "
+    },
+    {
+        "id": "119325559",
+        "name": "Python Developer",
+        "url": "https://hh.ru/vacancy/119325559",
+        "employer": "IBS",
+        "salary": "Зарплата не указана",
+        "description": "Опыт работы на аналогичной позиции 1-2 года. Уверенные знания и опыт работы с фреймворками Django, FastAPI. Опыт работы с..."
+    },
+    {
+        "id": "119312005",
+        "name": "Python Developer",
+        "url": "https://hh.ru/vacancy/119312005",
+        "employer": "Тис-Центр",
+        "salary": "Зарплата не указана",
+        "description": "Знание принципов ООП. Опыт разработки на <highlighttext>Python</highlighttext>. Знакомство с Django Rest Framework. Знание принципов работы c СУБД. Желание работать в..."
+    }
+]

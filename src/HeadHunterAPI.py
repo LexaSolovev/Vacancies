@@ -1,8 +1,5 @@
-import os.path
-
 import requests
 
-from config import PATH_DATA
 from src.BaseVacancyAPI import BaseVacancyAPI
 
 
@@ -20,6 +17,7 @@ class HeadHunterAPI(BaseVacancyAPI):
         self.params['page'] = page
         self.params['per_page'] = per_page
         self.params['area'] = area
+        self.__vacancies_json = []
         while self.params.get('page') != to_page:
             response = requests.get(self.url, headers=self.headers, params=self.params)
             if response.status_code == 200:
