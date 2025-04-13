@@ -8,12 +8,27 @@ class Salary:
         if self.salary_from and self.salary_to:
             return f'{self.salary_from} - {self.salary_to} {self.currency}'
         elif self.salary_from:
-            return f'{self.salary_from} {self.currency}'
+            return f'от {self.salary_from} {self.currency}'
+        elif self.salary_to:
+            return f'до {self.salary_to} {self.currency}'
         else:
             return 'Зарплата не указана'
 
     def __lt__(self, other):
         if isinstance(other, self.__class__):
-            return self.salary_from < other.salary_from
+            if self.salary_from:
+                if other.salary_from:
+                    return self.salary_from < other.salary_from
+                elif other.salary_to:
+                    return self.salary_from < other.salary_to
+            elif self.salary_to:
+                if other.salary_to:
+                    return self.salary_to < other.salary_to
+                elif other.salary_from:
+                    return self.salary_to < other.salary_from
+
         raise TypeError(f"Попытка некорректного сравнения объекта "
                         f"{self.__class__.__name__} c объектом {other.__class__.__name__}")
+
+    @staticmethod
+
