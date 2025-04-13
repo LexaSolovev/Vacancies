@@ -1,9 +1,19 @@
 import requests
 
-from src.BaseVacancyAPI import BaseVacancyAPI
+
+from abc import ABC, abstractmethod
+
+class BaseVacancyAPI(ABC):
+
+    @abstractmethod
+    def get_vacancies(self, keyword, page, to_page, per_page, area):
+        pass
 
 
 class HeadHunterAPI(BaseVacancyAPI):
+    """
+    Класс для получения информации о вакансиях с сайта hh.ru
+    """
 
     def __init__(self):
         self.__url = 'https://api.hh.ru/vacancies'
@@ -12,7 +22,11 @@ class HeadHunterAPI(BaseVacancyAPI):
         self.__vacancies_json = []
 
 
-    def get_vacancies(self, keyword: str, page: int = 0, to_page: int = 20, per_page: int = 100, area: int = None):
+    def get_vacancies(self, keyword: str, page: int = 0, to_page: int = 20, per_page: int = 100, area: int = None) -> list[dict]:
+        """
+        Функция для получения информации о вакансиях с сайта hh.ru.
+        Информация возвращается в виде списка словарей.
+        """
         self.__params['text'] = keyword
         self.__params['page'] = page
         self.__params['per_page'] = per_page

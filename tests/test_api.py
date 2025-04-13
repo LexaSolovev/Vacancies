@@ -3,7 +3,7 @@ from unittest.mock import patch
 import pytest
 import requests
 
-from src.HeadHunterAPI import HeadHunterAPI
+from src.api import HeadHunterAPI
 
 @pytest.fixture
 def api():
