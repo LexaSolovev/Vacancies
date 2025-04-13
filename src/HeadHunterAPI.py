@@ -12,7 +12,7 @@ class HeadHunterAPI(BaseVacancyAPI):
         self.__vacancies_json = []
 
 
-    def get_vacancies(self, keyword, page=0, to_page=20, per_page=100, area=None):
+    def get_vacancies(self, keyword: str, page: int = 0, to_page: int = 20, per_page: int = 100, area: int = None):
         self.params['text'] = keyword
         self.params['page'] = page
         self.params['per_page'] = per_page
