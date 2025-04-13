@@ -1,6 +1,4 @@
-import json
-
-from src.Salary import Salary
+from src.salary import Salary
 
 
 class Vacancy:
