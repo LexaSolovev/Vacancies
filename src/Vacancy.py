@@ -64,3 +64,11 @@ class Vacancy:
             return self.salary < other.salary
         raise TypeError(f"Попытка некорректного сравнения объекта "
                         f"{self.__class__.__name__} c объектом {other.__clas__.__name__}")
+
+    def is_contain_words(self, keywords : str) -> bool:
+        keywords_list = keywords.split()
+        self_str = str(self)
+        for word in keywords_list:
+            if word in self_str:
+                return True
+        return False
