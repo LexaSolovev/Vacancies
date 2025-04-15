@@ -66,17 +66,24 @@ class JSONSaver(BaseSaver):
         """
         with open(self.__path, "r") as f:
             vacancies_data = json.load(f)
-        for vacancy_dict in vacancies_data:
-            if vacancy_dict["id"] == vacancy.id:
-                return
+        if vacancy.is_vacancy_on_the_list(vacancies_data):
+            return
         vacancies_data.append(vacancy.to_dict())
         with open(self.__path, "w") as f:
             json.dump(vacancies_data, f, ensure_ascii=False, indent=4)
 
+
     def save_vacancies(self, vacancies: list[Vacancy]) -> None:
         """Метод для сохранения списка вакансий в файл"""
+        with open(self.__path, "r") as f:
+            vacancies_data = json.load(f)
+        for vacancy in vacancies:
+            if vacancy.is_vacancy_on_the_list(vacancies_data):
+                continue
+            vacancies_data.append(vacancy.to_dict())
+
         with open(self.__path, "w") as f:
-            json.dump([x.to_dict() for x in vacancies], f, indent=4, ensure_ascii=False)
+            json.dump(vacancies_data, f, indent=4, ensure_ascii=False)
 
     def delete_vacancy(self, vacancy: Vacancy | int) -> None:
         """Метод для удаления вакансии из файла"""

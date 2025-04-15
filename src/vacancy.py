@@ -82,3 +82,10 @@ class Vacancy:
             if word in self_str:
                 return True
         return False
+
+    def is_vacancy_on_the_list(self, vacancies_data: list[dict]) -> bool:
+        """Вспомогательная функция для проверки содержится ли вакансия в списке словарей"""
+        for vacancy_dict in vacancies_data:
+            if vacancy_dict["id"] == self.id:
+                return True
+        return False
