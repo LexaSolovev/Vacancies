@@ -2,6 +2,7 @@ import pytest
 
 from src.vacancy import Vacancy
 
+
 @pytest.fixture
 def vacancy1():
     return Vacancy(
@@ -34,20 +35,20 @@ def vacancy2():
 def areas():
     return [
         {
-            "id":"113",
-            "parent_id":None,
-            "name":"Россия",
-            "areas":[
+            "id": "113",
+            "parent_id": None,
+            "name": "Россия",
+            "areas": [
                 {
-                    "id":"1620",
-                    "parent_id":"113",
-                    "name":"Республика Марий Эл",
-                    "areas":[
+                    "id": "1620",
+                    "parent_id": "113",
+                    "name": "Республика Марий Эл",
+                    "areas": [
                         {
-                            "id":"4228",
-                            "parent_id":"1620",
-                            "name":"Виловатово",
-                            "areas":[]
+                            "id": "4228",
+                            "parent_id": "1620",
+                            "name": "Виловатово",
+                            "areas": []
                         }]
                 }]
         }]

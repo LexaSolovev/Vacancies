@@ -5,9 +5,11 @@ import requests
 
 from src.api import HeadHunterAPI
 
+
 @pytest.fixture
 def api():
     return HeadHunterAPI()
+
 
 @patch('requests.get')
 def test_get_vacancies_success(mock_get, api):
@@ -28,6 +30,7 @@ def test_get_vacancies_success(mock_get, api):
     assert len(vacancies) == 2
     assert vacancies[0]['name'] == 'Vacancy 1'
     assert vacancies[1]['name'] == 'Vacancy 2'
+
 
 @patch('requests.get')
 def test_get_vacancies_error(mock_get, api):

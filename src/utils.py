@@ -12,7 +12,7 @@ def search_id_by_name(areas: list[dict], name: str) -> str:
     for area in areas:
         if area["name"] == name:
             return area["id"]
-        result = search_id_by_name(area.get("areas",[]), name)
+        result = search_id_by_name(area.get("areas", []), name)
         if result:
             return result
 
@@ -30,7 +30,7 @@ def sort_vacancies(vacancies_list: list[Vacancy]) -> list[Vacancy]:
     return sorted(vacancies_list, reverse=True)
 
 
-def filter_vacancies(vacancies_list: list[Vacancy], filter_words : list[str]) -> list[Vacancy]:
+def filter_vacancies(vacancies_list: list[Vacancy], filter_words: list[str]) -> list[Vacancy]:
     """ Функция для отбора вакансий из списка, в которых содержится хотя бы одно слово из списка filter_words"""
     filtered_vacancies = []
     for vacancy in vacancies_list:
@@ -38,15 +38,17 @@ def filter_vacancies(vacancies_list: list[Vacancy], filter_words : list[str]) ->
             filtered_vacancies.append(vacancy)
     return filtered_vacancies
 
-def get_vacancies_by_salary(vacancies_list: list[Vacancy], salary_begin : int, salary_end : int) -> list[Vacancy]:
+
+def get_vacancies_by_salary(vacancies_list: list[Vacancy], salary_begin: int, salary_end: int) -> list[Vacancy]:
     """
     Функция для получения списка вакансий, по которым зарплата находится в заданном диапазоне
     """
     result = []
     for vacancy in vacancies_list:
-        if vacancy.salary.in_interval(salary_begin,salary_end):
+        if vacancy.salary.in_interval(salary_begin, salary_end):
             result.append(vacancy)
     return result
+
 
 def print_vacancies(vacancies_list: list[Vacancy]) -> None:
     """ Функция для печати списка вакансий"""
@@ -85,7 +87,7 @@ def user_interaction():
         if user_input == "1":
             top_n = int(input(f"Введите количество вакансий для вывода в топ N (от 1 до {count_vacancies}):"))
             if top_n > count_vacancies or top_n < 1:
-                print ("Некорректное число!")
+                print("Некорректное число!")
                 continue
             for i in range(top_n):
                 print(vacancies_list[i])
@@ -100,7 +102,7 @@ def user_interaction():
             if (not salary_interval) or (len(salary_interval) != 2):
                 print("Некорректный ввод диапазона зарплат!")
                 continue
-            int_salary = list(map(int,salary_interval))
+            int_salary = list(map(int, salary_interval))
             salary_begin = int_salary[0]
             salary_end = int_salary[1]
             if salary_begin >= salary_end:
@@ -113,6 +115,7 @@ def user_interaction():
 
         elif user_input == "5":
             break
+
 
 if __name__ == "__main__":
     user_interaction()

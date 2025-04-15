@@ -1,5 +1,6 @@
 from src.salary import Salary
 
+
 def test_salary_str():
     salary_from = Salary(100000)
     salary_to = Salary(0, 100000)

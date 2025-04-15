@@ -35,8 +35,11 @@ class Salary:
         raise TypeError(f"Попытка некорректного сравнения объекта "
                         f"{self} c объектом {other}")
 
-    def in_interval(self, salary_begin : int, salary_end : int) -> bool:
-        if ((salary_begin <= self.salary_from) and (salary_end >= self.salary_from)) or ((salary_begin >= self.salary_from) and (salary_begin <= self.salary_to)):
+    def in_interval(self, salary_begin: int, salary_end: int) -> bool:
+        if (((salary_begin <= self.salary_from)
+            and (salary_end >= self.salary_from))
+                or ((salary_begin >= self.salary_from)
+                    and (salary_begin <= self.salary_to))):
             return True
         else:
             return False

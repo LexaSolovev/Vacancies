@@ -1,7 +1,4 @@
-import pytest
-
-from src.utils import get_area_id, search_id_by_name, sort_vacancies, filter_vacancies, get_vacancies_by_salary
-from tests.conftest import vacancy1, vacancy2
+from src.utils import filter_vacancies, get_area_id, get_vacancies_by_salary, search_id_by_name, sort_vacancies
 
 
 def test_get_area_id():
@@ -40,7 +37,3 @@ def test_get_vacancies_by_salary(vacancy1, vacancy2):
     assert get_vacancies_by_salary(vacancies, 250000, 300000) == [vacancy2]
     assert get_vacancies_by_salary(vacancies, 300000, 350000) == [vacancy2]
     assert get_vacancies_by_salary(vacancies, 310000, 350000) == []
-
-
-
-

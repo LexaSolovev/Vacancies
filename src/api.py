@@ -1,7 +1,7 @@
+from abc import ABC, abstractmethod
+
 import requests
 
-
-from abc import ABC, abstractmethod
 
 class BaseVacancyAPI(ABC):
 
@@ -21,8 +21,14 @@ class HeadHunterAPI(BaseVacancyAPI):
         self.__params = {'text': '', 'page': 0, 'per_page': 100}
         self.__vacancies_json = []
 
-
-    def get_vacancies(self, keyword: str, page: int = 0, to_page: int = 20, per_page: int = 100, area: int = None) -> list[dict]:
+    def get_vacancies(
+            self,
+            keyword: str,
+            page: int = 0,
+            to_page: int = 20,
+            per_page: int = 100,
+            area: int = None
+    ) -> list[dict]:
         """
         Функция для получения информации о вакансиях с сайта hh.ru.
         Информация возвращается в виде списка словарей.

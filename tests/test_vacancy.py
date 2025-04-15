@@ -4,17 +4,17 @@ from src.vacancy import Vacancy
 def test_cast_to_obj_list(vacancy1, vacancy2):
     vacancies_data = [
         {
-            "id":1,
-            "name":"Тестовая вакансия 1",
-            "alternate_url":"https:какой_то_тестовый_урл_1",
-            "employer": {"name":"Работодатель_1"},
-            "salary":{
-                "from":100000,
-                "to":200000,
+            "id": 1,
+            "name": "Тестовая вакансия 1",
+            "alternate_url": "https:какой_то_тестовый_урл_1",
+            "employer": {"name": "Работодатель_1"},
+            "salary": {
+                "from": 100000,
+                "to": 200000,
                 "currency": "RUR"
             },
-            "snippet":{
-                "requirement":"Делать какую-то нужную работу 1"
+            "snippet": {
+                "requirement": "Делать какую-то нужную работу 1"
             }
         },
         {

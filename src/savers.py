@@ -1,8 +1,8 @@
 import json
 import os.path
+from abc import ABC, abstractmethod
 
 from config import PATH_DATA
-from abc import ABC, abstractmethod
 from src.vacancy import Vacancy
 
 
@@ -13,11 +13,11 @@ class BaseSaver(ABC):
         pass
 
     @abstractmethod
-    def add_vacancy(self, vacancy: Vacancy|int):
+    def add_vacancy(self, vacancy: Vacancy | int):
         pass
 
     @abstractmethod
-    def delete_vacancy(self, vacancy: Vacancy|int):
+    def delete_vacancy(self, vacancy: Vacancy | int):
         pass
 
     @abstractmethod
@@ -43,7 +43,7 @@ class JSONSaver(BaseSaver):
         path = os.path.join(PATH_DATA, file_name)
         self.__path = path
 
-    def get_data(self, keywords : str) -> list[Vacancy]:
+    def get_data(self, keywords: str) -> list[Vacancy]:
         """
         Метод для получения данных из файла по ключевым словам.
         Возвращает список объектов класса Vacancy
@@ -73,12 +73,12 @@ class JSONSaver(BaseSaver):
         with open(self.__path, "w") as f:
             json.dump(vacancies_data, f, ensure_ascii=False, indent=4)
 
-    def save_vacancies(self, vacancies : list[Vacancy]) -> None:
+    def save_vacancies(self, vacancies: list[Vacancy]) -> None:
         """Метод для сохранения списка вакансий в файл"""
         with open(self.__path, "w") as f:
             json.dump([x.to_dict() for x in vacancies], f, indent=4, ensure_ascii=False)
 
-    def delete_vacancy(self, vacancy: Vacancy|int) -> None:
+    def delete_vacancy(self, vacancy: Vacancy | int) -> None:
         """Метод для удаления вакансии из файла"""
         with open(self.__path, "r") as f:
             vacancies_data = json.load(f)

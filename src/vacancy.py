@@ -3,12 +3,12 @@ from src.salary import Salary
 
 class Vacancy:
 
-    id : int
-    name : str
-    url : str
-    employer : str
-    salary : Salary
-    description : str
+    id: int
+    name: str
+    url: str
+    employer: str
+    salary: Salary
+    description: str
 
     __slots__ = ("id", "name", "url", "employer", "salary", "description")
 
@@ -21,7 +21,7 @@ class Vacancy:
         self.description = description
 
     @classmethod
-    def cast_to_obj_list(cls, vacancies_data : list[dict]) -> list:
+    def cast_to_obj_list(cls, vacancies_data: list[dict]) -> list:
         vacancies_list = []
         for vacancy in vacancies_data:
             salary_info = vacancy["salary"]
@@ -35,7 +35,7 @@ class Vacancy:
                     salary_from,
                     salary_to,
                     currency,
-                    vacancy.get("snippet",{}).get("requirement")
+                    vacancy.get("snippet", {}).get("requirement")
                 )
             )
         return vacancies_list
@@ -60,15 +60,14 @@ class Vacancy:
                 f"Зарплата: {str(self.salary)}\n"
                 f"Требования: {self.description}\n")
 
-
     def to_dict(self):
         return {
-                "id" : self.id,
-                "name" : self.name,
-                "url" : self.url,
-                "employer" : self.employer,
-                "salary" : str(self.salary),
-                "description" : self.description
+                "id": self.id,
+                "name": self.name,
+                "url": self.url,
+                "employer": self.employer,
+                "salary": str(self.salary),
+                "description": self.description
         }
 
     def __lt__(self, other):
@@ -77,7 +76,7 @@ class Vacancy:
         raise TypeError(f"Попытка некорректного сравнения объекта "
                         f"{self.__class__.__name__} c объектом {other.__clas__.__name__}")
 
-    def is_contain_words(self, keywords : list[str]) -> bool:
+    def is_contain_words(self, keywords: list[str]) -> bool:
         self_str = str(self)
         for word in keywords:
             if word in self_str:
