@@ -25,13 +25,7 @@ class Vacancy:
         vacancies_list = []
         for vacancy in vacancies_data:
             salary_info = vacancy["salary"]
-            salary_from = 0
-            salary_to = 0
-            currency = "RUR"
-            if salary_info:
-                salary_from = salary_info["from"] if salary_info["from"] else 0
-                salary_to = salary_info["to"] if salary_info["to"] else 0
-                currency = salary_info["currency"] if salary_info["currency"] else "RUR"
+            salary_from, salary_to, currency = cls.__validate_salary(salary_info)
             vacancies_list.append(
                 cls(
                     vacancy["id"],
@@ -45,6 +39,18 @@ class Vacancy:
                 )
             )
         return vacancies_list
+
+    @staticmethod
+    def __validate_salary(salary_info: dict | None) -> tuple:
+        """ Метод для валидации информации о зарплате, возвращает картеж (salary_from, salary_to, currency) """
+        salary_from = 0
+        salary_to = 0
+        currency = "RUR"
+        if salary_info:
+            salary_from = salary_info["from"] if salary_info["from"] else 0
+            salary_to = salary_info["to"] if salary_info["to"] else 0
+            currency = salary_info["currency"] if salary_info["currency"] else "RUR"
+        return salary_from, salary_to, currency
 
     def __str__(self):
 
